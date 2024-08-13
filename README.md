@@ -1,6 +1,6 @@
 # Table of Contents
 
-## [Preface](broken-reference) hi
+## [Preface](broken-reference)
 
 ***
 
