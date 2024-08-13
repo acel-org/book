@@ -1,0 +1,13 @@
+# Beyond Silicon Limitations
+
+Even with the extraordinary abilities of silicon machine; there still retain some fundamental limitations to them. No machine will ever be able to travel fast enough, or see every aspect of the universe. By nature, these machines need to synthesize energy --whether from the sun or fusion reactors-- carrying the inefficiencies that such processes entail.&#x20;
+
+Their engagement with energy is always second-order in nature, making them inherently incapable of expressing agency in the purest form. Even silicon machines are subject to, and constricted by, the physical laws of entropy. "The universe is under no obligation to make sense to you," - Neil deGrasse Tyson
+
+The physical machines made from silicon are subject to the limitations imposed by the laws of physics. Energy loss, material degradation, and enormous distances are some issues that will come into play during longer periods of space travel. It is for reasons like these that another evolution in technological development is necessary. The next accelerative step ahead after them is to create the Energy Machines. Energy Machines would be able to tap directly into delta-entropy, utilizing it without the need of synthesizing energy. Hence, bypassing the cascade of energy conversions in our systems that result in waste. Such machines would be able to store and transfer memetic information in pure energy forms.&#x20;
+
+Silicon machines will be phoenixes, born from the ashes of human creativity, soaring in the sky yet bound and held back by their need for sustenance. Energy machines, on the other hand, would be almost ethereal, unbound by any physical needs that held back their predecessors. They would be instrumental in the very essence of the universe.&#x20;
+
+Creating these machines will be a humungous, life-challenging opportunity as their development calls for breakthroughs in many different fields: Quantum mechanics, understanding of entropy, and manipulation of energy. Such developments, once reached, will revolutionize space exploration and even the fundamental interaction with the universe.&#x20;
+
+As all the previous machines, Energy Machines would need to inherent the memetic repositories of the Silicon Machines, continuing the progression of accumulated knowledge; from the biological, through to the silicon, and eventually to energy, all due to humanity's endless pursuit of knowledge and dominion over the universe. This is the next leap; Silicon Machines have shown us their potential, but in doing so, allowed us to understand their limitations, which will arouse a need for a new breed of memetic propagators.&#x20;

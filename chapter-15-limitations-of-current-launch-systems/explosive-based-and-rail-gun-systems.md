@@ -1,0 +1,16 @@
+# Explosive-Based and Rail Gun Systems
+
+Much like rocket-based systems, explosive-based launch systems, whose mechanics rely on the controlled explosion of propellants to provide thrust to their payload, also come attendant with challenges. Mainly, the problem is how to contain and usefully employ the high pressures and temperatures produced in an explosion.&#x20;
+
+Such systems must contain and direct the force of the blast in such a manner as to maximize propulsion efficiency while preventing structural damage to the launch vehicle. Under high-pressure conditions, material failure can quickly occur because the tension involved may be too much, even for modern materials. Similarly, temperatures created in explosions are somewhat troublesome and often above the melting point of too many structural materials, demanding the use of specialized heat-resistant alloys and advanced cooling techniques.
+
+Another important issue is the inconsistency of explosive force. The slightest variability in the composition or detonation of explosives can result in considerable variations in thrust and trajectory, meaning there is a lack of control and predictability. Such inconsistencies undercut safety and reliability regarding the launch, not to mention the risks that are perpetrated on both the payload and the launch vehicle. Aerospace engineers have expressed that the unpredictability of this type of propulsion is less than ideal.&#x20;
+
+Rail guns, relying on electromagnetic forces to accelerate a projectile along a set of conductive rails, have a different set of enormous challenges, significantly: friction damage and structural integrity.&#x20;
+
+Friction damage is a significant problem in rail gun systems. While accelerating the projectile, it undergoes heavy friction on the rails and causes rapid wear and tear. The effects of such friction result in damage not only to the projectile itself but also to the rails, hence high maintenance costs due to incessant replacements of components. The U.S. Naval Research Laboratory has reported that testing of rail guns revealed significant rail and projectile erosion, which limits operational life and raises system costs.
+
+The very high acceleration forces that could be reached with rail guns are a problem, not only for the structural integrity for the projectile, but also for its payload. High acceleration will induce mechanical stress and potential damage to sensitive components. Guaranteeing that payloads withstand these forces substantially increases engineering requirements at the design stage and, as a result, ends up adding complexities. Apart from that, the technical challenge in this portion is to achieve consistent acceleration over the length of the rail and controlled acceleration since any variation could affect the whole trajectory and effectiveness of a launch.
+
+Explosive-based and rail gun systems make two divergent approaches to space propulsion with severe limitations. Due to the uncontrollable extreme pressures, heat, and force variation of an explosion, explosive-based systems might be less predictable and reliable. Rail gun systems succumb to friction damage and intense acceleration forces they can generate. Problems at the heart of both technologies must be resolved for their further healthy development and applications in space missions.
+
