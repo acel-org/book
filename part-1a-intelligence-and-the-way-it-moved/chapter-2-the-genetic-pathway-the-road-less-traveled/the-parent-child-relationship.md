@@ -21,29 +21,29 @@ Interestingly, when plotting their evolutionary in-step, when tracking their his
 
 ## Hegel's _Historical Process_; ACEL's _Humanity_ Process
 
-Of course, our curious, perhaps suspicious, even appraising gaze upon this sustained and asymptotic orientation of these two in-cahoots structures of consciousness and their by-one-another brimming-over potentia — that self-enchantment locked on thesel — does not claim here what it observes to be original; for this idea is hardly novel: Hegel had been fully aware of this causative interplay between intelligence and agency when writing his 1807 magnum opus, _The Phenomenology of Spirit._ On this, Houlgate gives readers a rare, pithy entry point into Hegel's mind when he says, "The main source and element of human freedom, for Hegel, is thought" (Houlgate 26). Sartre comments that "the&#x20;fundamantal condition of the act is freedom" (Sartre 438).&#x20;
+Of course, our curious, perhaps suspicious, even appraising gaze upon this sustained and asymptotic orientation of these two in-cahoots structures of consciousness and their by-one-another brimming-over potentia — that self-enchantment locked on thesel — does not claim here what it observes to be original; for this idea is hardly novel: Hegel had been fully aware of this causative interplay between intelligence and agency when writing his 1807 magnum opus, _The Phenomenology of Spirit._ On this, Houlgate sums up cleanly Hegel's position on the matter when he states, "The main source and element of human freedom, for Hegel, is thought" (Houlgate 26). Of course, its unpacking might be a bit messier..
 
-What does Hegel mean by _human freedom,_ if not the being in total possession of one's own _capacity to act_, _to think_; the being the sole proprietor — the _agent_ — of one's own existential property? Jean-Paul Sartre in _Being and Nothingness: An Essay on Phenomenological Ontology_ says of this, "the act is the expression of freedom;" later, "the fundamental condition of the act is freedom... ;" and ju Insofar as both freedom and agency are action-_in-potentia_  are understood as a sacred virtue to be possessed, that can be taken away,  freedom is agency, perhaps _in-potentia_ Easily enough, the model above aligns seamlessly with Houlgate's, down to the grammar: Houlgate's framing here betrays that, in its relation to agency (via _freedom_), _thought_ exists dual-natured: as a _source_ of freedom (i.e. freedom _by-_thought; thought begets freedom); and, as an _element_ of freedom (freedom _of_ thought; freedom begets thought).  More,&#x20;
+What does Hegel mean by _human freedom,_ if not the state of being in total possession of one's own _capacity to act_, _to think_; the position as sole proprietor — as _agent_ — of one's own existential property? Jean-Paul Sartre in _Being and Nothingness: An Essay on Phenomenological Ontology_ says of this relationship between acting – i.e. agency – and freedom , "the act is the expression of freedom... the fundamental condition of the act is freedom... ;" (Sartre 438). A triangulation is thus at play here: for Sartre, _freedom_ is conditional to and expressed by _action —_ there is no action without freedom; the source of this action-based _freedom_, per Hegel, is _thought_. ACEL agrees with both and considers their amplification of one another, by none other than _agency-driven thought_.&#x20;
 
-more, for Houlgate, it is the _sense_ of this "freedom", this manifestation of agency – that is the key point here.
+In earnest, the compounding model above — that is, the generation of agency by intelligence and the generation of intelligence by agency; the begetting of themselves together — appears to align seamlessly with Hegel à la Houlgate, even down to the grammar: Houlgate's framing in the quote above betrays that, in its relation to agency (via Sartre's unpacking of _freedom_), _thought_ exists dual-natured: as a _source_ of freedom (i.e. freedom _by-_thought; thought begets freedom); and, as an _element_ of freedom, much as Sartre's _act_ is conditional to freedom (i.e. freedom _to_ thought; freedom begets thought). So it seems that Hegel as well perceived this dynamic feedback loop between intelligence and agency; and, of the multitudinous progressions within _Phenomenology's_ philosophical song, these two harmonic timbres of the _self_ resonate most profoundly out of his treatment of _history_, and its relational evolution_._
 
+It is well known that Hegel Hegel took most interest in this dynamism's significance to the _historical process_ of mankind.
 
-
-
-
-As so much is ACEL, Hegel took most fascination in this dynamism's significance to the _historical process_ of mankind. Indeed, of the multitudinous, at  topographies of _Phenomenology's_ philosophical mapping, these two harmonic timbres within the _self_  and powers  is most clearly illuminated in his treatment of _history_ and its relational evolution_._
-
-it appears quite clear to Hegel that, during both humanity's gravest historical intensities as well as its most miraculous advancements, these two friendly  a particular knack for showing a charismatic presence ;
-
-Human reality may be defined as a being such that in its being its freedom is at stake because human reality perpetually tries to refuse to recognize its freedom
+&#x20;it appears quite clear to Hegel that, during both humanity's gravest historical intensities as well as its most miraculous advancements, these two friendly  a particular knack for showing a charismatic presence ;
 
 As has been shown, Hegel maintains a pervasive interest in _history_, particularly the history of mankind. More than that, he was interested primarily in&#x20;
+
+In other words, "\[humanity's] profound changes... have been produced, by our becoming more conscious of our freedom and potential for self-determination, and more aware of the way in which that freedom is to be realized and fulfilled in the world" (Houlgate 8)
+
+As so much is ACEL,&#x20;
+
+
 
 The fundamental&#x20;advances in history - the emergence of the classical world and the dawn of Christianity,&#x20;for example - are thus the result, for Hegel, of mankind's becoming more aware of itself&#x20;as freely self-determining and thereby actually coming to be more freely self-determining&#x20;in history. 14
 
 &#x20;within, that ACEL might hazard to superimpose a piece of its own framework on one manageable piece of that ACEL has carved out for itself superimpose its historical process Hegel's understanding of _history_, as  — namely, a comparative model of _historical process_ — ACEL's _humanity_ onto Hegel's _history_, and then to which he would retire himself to _homo sapien sapiens_, past, current, and future_._ Houlgate says, _"_\[Hegel] does believe that within the manifold vicissitudes of human history there is an identifiable strand of development from humanity's initial, primitive self-understanding to the much more enlightened perspective of the modern age." For Hegel, each point at which this "strand" threads its next hole through history are those marked by long-tail explosions of self-reflective human intelligence; Houlgate notes, "the most important changes in history have involved shifts in the categories through&#x20;which human beings understand their world... They have been shifts brought about by humanity's growing&#x20;self-awareness" (Houlgate 12).&#x20;
 
-In other words, "\[humanity's] profound changes... have been produced, by our becoming more conscious of our freedom and potential for self-determination, and more aware of the way in which that freedom is to be realized and fulfilled in the world" (Houlgate 8)
+
 
 
 

@@ -50,7 +50,7 @@
 ## Part 4: Getting the Machines Out & Getting Us Out
 
 15. ### The Impending 'Dodo' Scenario
-16. ### Humanity's Best Chance of Not Getting 'Dodo'd'
+16. ### Humanity's Best Shot at Not Getting 'Dodo'd'
 17. ### What Success (& its Consequences) Look Like
 18. ### &#x20;The Concept of SpaceBrains
 19. ### A World with SpaceBrains
