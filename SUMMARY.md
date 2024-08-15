@@ -25,13 +25,13 @@
   * [The Adversarial Universe](part-1a-intelligence-and-the-way-it-moved/chapter-1-the-origins-of-human-intelligence/the-adversarial-universe.md)
 * [Chapter 2: The Genetic Pathway: The Road Less Traveled](part-1a-intelligence-and-the-way-it-moved/chapter-2-the-genetic-pathway-the-road-less-traveled/README.md)
   * [A Brief History of Deoxyribonucleic Acid](part-1a-intelligence-and-the-way-it-moved/chapter-2-the-genetic-pathway-the-road-less-traveled/a-brief-history-of-deoxyribonucleic-acid.md)
-  * [The "Why" of Intelligence and Agency as ACEL's Focus](part-1a-intelligence-and-the-way-it-moved/chapter-2-the-genetic-pathway-the-road-less-traveled/the-why-of-intelligence-and-agency-as-acels-focus.md)
   * [The Parent-Child Relationship](part-1a-intelligence-and-the-way-it-moved/chapter-2-the-genetic-pathway-the-road-less-traveled/the-parent-child-relationship.md)
   * [On the Consideration of Accelerant Genetic Overrides](part-1a-intelligence-and-the-way-it-moved/chapter-2-the-genetic-pathway-the-road-less-traveled/on-the-consideration-of-accelerant-genetic-overrides.md)
 
 ## Part 1B: Intelligence: & Maximizing Memetic Potency
 
 * [Chapter 3: New Dominance in Intelligence Propagation](part-1b-intelligence-and-maximizing-memetic-potency/chapter-3-new-dominance-in-intelligence-propagation/README.md)
+  * [The "Why" of Intelligence and Agency as ACEL's Focus](part-1b-intelligence-and-maximizing-memetic-potency/chapter-3-new-dominance-in-intelligence-propagation/the-why-of-intelligence-and-agency-as-acels-focus.md)
   * [Memetic Pathway](part-1b-intelligence-and-maximizing-memetic-potency/chapter-3-new-dominance-in-intelligence-propagation/memetic-pathway.md)
   * [Half Life](part-1b-intelligence-and-maximizing-memetic-potency/chapter-3-new-dominance-in-intelligence-propagation/half-life.md)
   * [Exporting Intelligence](part-1b-intelligence-and-maximizing-memetic-potency/chapter-3-new-dominance-in-intelligence-propagation/exporting-intelligence.md)

@@ -26,3 +26,4 @@ These children, with remarkably extensive intelligence, have high-functioning ab
 * A high-functioning child has potentially more energy and more capability to express agency whilst exhibiting intelligence. They should be amplified and supported.&#x20;
 * MEDICATING Medicating a high-functioning child is even crueller, seeking to decelerate their energy and output because it seems chaotic to the observer. Once again it is a form of control - trying to fit the high-functioning child in a box of average.&#x20;
 * Every permutation of humanity should be free to be, to explore the universe and seek to explain it
+* Each biological machine, through the propagation of genes and through the agented dissemination of their knowledge, contributes to our existential extension of endeavor of advancing and expanding our repositories. &#x20;
