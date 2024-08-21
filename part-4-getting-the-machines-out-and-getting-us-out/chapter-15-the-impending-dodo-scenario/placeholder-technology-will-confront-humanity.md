@@ -1,4 +1,4 @@
-# Placeholder: Technology Will Confront Humanity
+# Technology Will Confront Humanity
 
 As we look at the rapid rate of technological advancement, we stare into a future that's as much exciting as it is utterly terrifying. The trajectory of development our technology is likely to take—its main driver being artificial intelligence, biotechnology, and automation—seems unstoppable. Yet, such momentum exacts a price: cumulative progress fuels fear about the possibility of our technology—one's best ally—turning against us, making humans redundant one day, or, in the worst scenario, turning our kind into that of the dodos of the 17th century.&#x20;
 

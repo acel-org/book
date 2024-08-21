@@ -1,4 +1,22 @@
-# Half Life
+# Half-Life
+
+## The Commonality of Considering Time; the Difference in Scale
+
+As is perhaps becoming clear by now, the philosophical weight of ACEL leans dependably upon a temporal framework. That is to say, as the foundation of this thought system concerns itself primarily with both _survival_ — which is itself indicative of one's persistent existence _through_ time, a conscious continuity over overlapping _unfolding-now's_ — and evolution — more specifically, humanity's material on-the-ground _evolution —_ the core idea of ACEL is both born and residing within, ever-inhabiting the notion of _Time_ — one might say that _Time_ is the womb of ACEL.&#x20;
+
+This philosophical framing around temporality is nothing new. In fact, the concept around which a culture — e.g. Egyptian, Buddhist, Mayan; a thinker — e.g. Hegel, Whitehead, Darwin; or a thought system — e.g. Evolutionary Biology, Process Theory, Phenomenology, can hardly be left out even if purposed to that end. For we, as biological machines, are constrained — and confused — by continuity, and what to do with it. It does appear, however, and ironically, that the farther the gaze, the ACEL, for its own model,&#x20;
+
+However, one inconsistent yet meaningful nuance between them is the scale, or the length, to which temporal relevance is measured by ech. In other words, how much _clock-time_ each considers relevant to its theoretical position is that which is contained by each, respecively. Each seems variable, and whether explicitly acknowledged or not by its progenitor, this conscious or unconscious tool weilded undoubtedly affects the priorities and the material outcomes of that particular idea.&#x20;
+
+## Just _How Long_ is ACEL's Longview?
+
+ACEL, for its part, joins the league of time-based thought structures, as it cannot live without a consideration of temporal throughput.  With that said, it diverges beyond what one might consider the common scope of temporal relevance. ACEL's worldview is not a looking at our species starting from, say, the Industrial Revolution, and becoming vague around the dawn of some new world power one or two hundred years from now; it doesn't begin at the Epic of Gilgamesh, or the Ancient Egyptians, or even early humans. No, ACEL takes the longview in the full extent of its meaning: it begins at the dawn of _humanity_, as it is emically understood, meaning the first manifestation of intelligence and agency. As we know, it is therefore with the four billion year old pre-life RNA that ACEL deems . And it does so on the other side of our existential coin, as well — that is, in its consideration of what not yet transpired, the interest spans as long as humanity,does; if that is another four billion years, so be it.&#x20;
+
+With this potentially infinite time frame in mind, it would be relatively safe to claim, accounting for probability and the second law of thermodynamics, that _all things in the universe_ will change. Whether materially or immaterially, _everything_ that is currently unfolding in this _unfolding-now_, will not be as such as some point later.&#x20;
+
+
+
+&#x20;within the constraints of space-time, at least for now, they inevitably experience&#x20;
 
 Whether genetic or memetic, intelligence has an intrinsic "half-life"; knowledge or instructions are only helpful for a particular duration of time, before they begin losing their functionality. They fade over time, to give way to new ideas and innovations, but still manage to leave traces of their existence.&#x20;
 

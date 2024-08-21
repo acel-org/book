@@ -32,11 +32,10 @@
 ## Part 1B: Intelligence: & Maximizing Memetic Potency
 
 * [Chapter 3: New Dominance in Intelligence Propagation](part-1b-intelligence-and-maximizing-memetic-potency/chapter-3-new-dominance-in-intelligence-propagation/README.md)
-  * [Memetic Pathway](part-1b-intelligence-and-maximizing-memetic-potency/chapter-3-new-dominance-in-intelligence-propagation/memetic-pathway.md)
-  * [Half Life](part-1b-intelligence-and-maximizing-memetic-potency/chapter-3-new-dominance-in-intelligence-propagation/half-life.md)
+  * [ACEL's Memetic Formula: Intelligence + Agency = Survival + Evolution](part-1b-intelligence-and-maximizing-memetic-potency/chapter-3-new-dominance-in-intelligence-propagation/acels-memetic-formula-intelligence-+-agency-survival-+-evolution.md)
+  * [Half-Life](part-1b-intelligence-and-maximizing-memetic-potency/chapter-3-new-dominance-in-intelligence-propagation/half-life.md)
   * [Exporting Intelligence](part-1b-intelligence-and-maximizing-memetic-potency/chapter-3-new-dominance-in-intelligence-propagation/exporting-intelligence.md)
 * [Chapter 4: Priorities & Models of Memesis](part-1b-intelligence-and-maximizing-memetic-potency/chapter-4-priorities-and-models-of-memesis/README.md)
-  * [ACEL's Memetic Focus: Intelligence, Agency, Evolution](part-1b-intelligence-and-maximizing-memetic-potency/chapter-4-priorities-and-models-of-memesis/acels-memetic-focus-intelligence-agency-evolution.md)
   * [Religion: The Memetic Model Infallible](part-1b-intelligence-and-maximizing-memetic-potency/chapter-4-priorities-and-models-of-memesis/religion-the-memetic-model-infallible.md)
   * [Which Model Does ACEL Model?](part-1b-intelligence-and-maximizing-memetic-potency/chapter-4-priorities-and-models-of-memesis/which-model-does-acel-model.md)
 
@@ -88,14 +87,14 @@
 ## Part 4: GETTING THE MACHINES OUT & GETTING US OUT&#x20;
 
 * [Chapter 15: The Impending 'Dodo' Scenario](part-4-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario/README.md)
-  * [Technology Will Confront Humanity](part-4-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario/technology-will-confront-humanity.md)
-  * [Helping Them to Not Hurt Us](part-4-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario/helping-them-to-not-hurt-us.md)
+  * [Technology Will Confront Humanity](part-4-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario/placeholder-technology-will-confront-humanity.md)
+  * [Helping Them to Not Hurt Us](part-4-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario/placeholder-helping-them-to-not-hurt-us.md)
 * [Chapter 16: The ACEL Tunnel: Humanity's Best Shot at Not Getting 'Dodo'd'](part-4-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod/README.md)
   * [The Limitation in Current Space Exploration](part-4-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod/the-limitation-in-current-space-exploration.md)
   * [Visionary Concepts and The ACEL Tunnel](part-4-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod/visionary-concepts-and-the-acel-tunnel.md)
   * [Overcoming Barriers to Progress](part-4-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod/overcoming-barriers-to-progress.md)
 * [Chapter 17: What Success (& its Consequences) Look Like](part-4-getting-the-machines-out-and-getting-us-out/chapter-17-what-success-and-its-consequences-look-like/README.md)
-  * [Ethical Exploration and Responsibility](part-4-getting-the-machines-out-and-getting-us-out/chapter-17-what-success-and-its-consequences-look-like/ethical-exploration-and-responsibility.md)
+  * [Efficient Exploration and Responsibility](part-4-getting-the-machines-out-and-getting-us-out/chapter-17-what-success-and-its-consequences-look-like/efficient-exploration-and-responsibility.md)
   * [Vision for Multi-Planetary Humanity](part-4-getting-the-machines-out-and-getting-us-out/chapter-17-what-success-and-its-consequences-look-like/vision-for-multi-planetary-humanity.md)
 * [Chapter 18: The Concept of SpaceBrains](part-4-getting-the-machines-out-and-getting-us-out/chapter-18-the-concept-of-spacebrains/README.md)
   * [Shedding the Body for Longevity](part-4-getting-the-machines-out-and-getting-us-out/chapter-18-the-concept-of-spacebrains/shedding-the-body-for-longevity.md)
@@ -126,6 +125,7 @@
 ***
 
 * [APPENDIX](appendix.md)
+* [Memetic Pathway](memetic-pathway.md)
 * [Chapter 6: ACEL versus DECEL](chapter-6-acel-versus-decel/README.md)
   * [How The Decels Decel](chapter-6-acel-versus-decel/how-the-decels-decel.md)
 * [Chapter 14: Accelerative Process](chapter-14-accelerative-process/README.md)
