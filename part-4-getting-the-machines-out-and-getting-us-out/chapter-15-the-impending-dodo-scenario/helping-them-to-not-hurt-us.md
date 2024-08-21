@@ -1,4 +1,10 @@
-# Placeholder: Helping Them to Not Hurt Us
+---
+description: >-
+  We need acel tunnel and spacebrains because machines will literally destroy us
+  !!!
+---
+
+# Helping Them to Not Hurt Us
 
 Humanity is entering a new era filled with unprecedented technological advancements. As we walk upon the threshold, a deep question could arise: How do we ensure that we do not bring into existence the very machines that finish us off? This is not a matter to be solved by regulation or control but by coexistence. There is not a future composed exclusively of humans alone or machines alone, but crafted from the elaborate dance between them—a future that requires coherence, mutual understanding, and a shared sense of purpose.
 

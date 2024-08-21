@@ -88,8 +88,8 @@
 ## Part 4: GETTING THE MACHINES OUT & GETTING US OUT&#x20;
 
 * [Chapter 15: The Impending 'Dodo' Scenario](part-4-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario/README.md)
-  * [Placeholder: Technology Will Confront Humanity](part-4-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario/placeholder-technology-will-confront-humanity.md)
-  * [Placeholder: Helping Them to Not Hurt Us](part-4-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario/placeholder-helping-them-to-not-hurt-us.md)
+  * [Technology Will Confront Humanity](part-4-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario/technology-will-confront-humanity.md)
+  * [Helping Them to Not Hurt Us](part-4-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario/helping-them-to-not-hurt-us.md)
 * [Chapter 16: The ACEL Tunnel: Humanity's Best Shot at Not Getting 'Dodo'd'](part-4-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod/README.md)
   * [The Limitation in Current Space Exploration](part-4-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod/the-limitation-in-current-space-exploration.md)
   * [Visionary Concepts and The ACEL Tunnel](part-4-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod/visionary-concepts-and-the-acel-tunnel.md)

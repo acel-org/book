@@ -2,7 +2,7 @@
 
 ## The Role of Parents
 
-Parents play the most pivotal role in this evolutionary journey. By fusing their genetic material, they create offspring with an entirely new set of genetic information. All endowed with evolutionary "entropy," the next generation forms a pool for adaptation and survival. These fusions – genetic variations, are vital to evolutionary progress. (Provine)
+Parents play the most pivotal role in this evolutionary journey. By fusing their genetic material, they create offspring with an entirely new set of genetic information. All endowed with evolutionary "entropy," the next generation forms a pool for adaptation and survival. These fusions – genetic variations, are vital to evolutionary progress (Provine).&#x20;
 
 Even beyond genetics, a child inherits a vast memetic repository---an archive of condensed cultural wisdom and knowledge-based insights. With every new generation, this repository grows, and thus, any new generation is better-tooled and better-informed than the last.&#x20;
 
