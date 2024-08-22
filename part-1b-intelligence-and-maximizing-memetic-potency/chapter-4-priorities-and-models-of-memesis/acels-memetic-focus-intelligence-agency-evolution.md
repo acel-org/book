@@ -4,7 +4,7 @@ description: >-
   by memes that they gain their powers." - Dan Dennett
 ---
 
-# ACEL's Memetic Focus: Intelligence, Agency, Evolution
+# ACEL's Memetic Formula: Intelligence + Agency = Survival + Evolution
 
 ## Deploying Our Natural Appetite for Knowledge
 
