@@ -1,6 +1,6 @@
 # Half-Life
 
-## The Commonality of Considering Time; the Difference in Scale
+## The Common Consideration of Time; the Difference in Scale
 
 As is perhaps becoming clear by now, the philosophical weight of ACEL leans dependably upon a temporal framework. That is to say, as the foundation of this thought system concerns itself primarily with both _survival_ — which is itself indicative of one's persistent existence _through_ time, a conscious continuity over overlapping _unfolding-now's_ — and evolution — more specifically, humanity's material on-the-ground _evolution —_ the core idea of ACEL is both born and residing within, ever-inhabiting the notion of _Time_ — one might say that _Time_ is the womb of ACEL.&#x20;
 
