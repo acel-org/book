@@ -17,6 +17,7 @@
 * Cheng, D. K. (2015). Field and Wave Electromagnetics. Pearson.
 * Long, K. F. (2012). Deep Space Propulsion: A Roadmap to Interstellar Flight. Springer.
 * Meyers, M. A., & Chawla, K. K. (2009). Mechanical Behavior of Materials. Cambridge University Press.
+* Brinkhof, Tim. “Here’s Why Sensory Perception Research Was Awarded A Nobel Prize.” _Freethink_, 11 Oct. 2021, www.freethink.com/science/2021-nobel-prize-for-medicine-is-awarded-to-work-on-sensory-perception-heres-why.
 * Moon, F. C. (2008). Superconducting Levitation: Applications to Bearings and Magnetic Transportation. Wiley-VCH.
 * Halliday, D., Resnick, R., & Walker, J. (2013). Fundamentals of Physics. Wiley.
 * Griffiths, D. J. (2017). Introduction to Electrodynamics. Cambridge University Press.
@@ -36,7 +37,7 @@
 * https://www.mdpi.com/journal/applsci/special\_issues/25QOTNROL7&#x20;
 * [https://www.mdpi.com/2076-3417/10/18/6294](https://www.mdpi.com/2076-3417/10/18/6294)
 * [https://www.freethink.com/science/2021-nobel-prize-for-medicine-is-awarded-to-work-on-sensory-perception-heres-wh](https://www.freethink.com/science/2021-nobel-prize-for-medicine-is-awarded-to-work-on-sensory-perception-heres-why)y
-* [https://antilogicalism.com/wp-content/uploads/2016/12/aristotle\_anima\_final.pdf](https://antilogicalism.com/wp-content/uploads/2016/12/aristotle\_anima\_final.pdf)
+* Aristotle. “De Anima (on the Soul) .” _De Anima (On the Soul)_, antilogicalism.com/wp-content/uploads/2016/12/aristotle\_anima\_final.pdf. Accessed 23 Aug. 2024.
 * [https://sadil.ws/bitstream/handle/123456789/329/B22.pdf?sequence=1\&isAllowed=y](https://sadil.ws/bitstream/handle/123456789/329/B22.pdf?sequence=1\&isAllowed=y)
 * [https://buddhismnow.com/2018/02/16/tittha-sutta-buddhist-parable-of-the-blind-men-and-the-elephant/](https://buddhismnow.com/2018/02/16/tittha-sutta-buddhist-parable-of-the-blind-men-and-the-elephant/)
 * [https://www.gutenberg.org/cache/epub/18835/pg18835-images.html](https://www.gutenberg.org/cache/epub/18835/pg18835-images.html)
@@ -166,6 +167,7 @@
 * Derrida, Jacques. _Of Grammatology_. Johns Hopkins University Press, 1998.
 * Heidegger, Martin, et al. _Being and Time_. Blackwell, 1962.
 * Ross, James Perren. “Outlasting the Dinosaurs.” _NOVA_, PBS, Dec. 2023.
+* Whitehead, Alfred North. “The Concept of nature the Tarner Lectures Delivered in Trinity College, November 1919.” _The Project Gutenberg eBook of The Concept of Nature, by A. N. Whitehead._, 8 Aug. 2024, www.gutenberg.org/cache/epub/18835/pg18835-images.html.
 
 
 
