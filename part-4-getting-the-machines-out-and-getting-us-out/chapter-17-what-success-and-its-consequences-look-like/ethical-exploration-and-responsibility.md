@@ -1,4 +1,4 @@
-# Efficient Exploration and Responsibility
+# Efficient Exploration and Evolutionary Responsibility
 
 With the ACEL Tunnel moving from concept to reality, the face of space exploration will never be the same again. Such a sweeping initiative as this one is bound not only to change our definition of access to and the exploration of the cosmos but will also come with its own set of newer responsibilities and challenges. There is a need to outline what success with the ACEL Tunnel looks like and the deep consequence that it is going to have with humanity, technology, and our understanding of the universe.
 

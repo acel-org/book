@@ -94,7 +94,7 @@
   * [Visionary Concepts and The ACEL Tunnel](part-4-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod/visionary-concepts-and-the-acel-tunnel.md)
   * [Overcoming Barriers to Progress](part-4-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod/overcoming-barriers-to-progress.md)
 * [Chapter 17: What Success (& its Consequences) Look Like](part-4-getting-the-machines-out-and-getting-us-out/chapter-17-what-success-and-its-consequences-look-like/README.md)
-  * [Efficient Exploration and Evolutionary Responsibility](part-4-getting-the-machines-out-and-getting-us-out/chapter-17-what-success-and-its-consequences-look-like/efficient-exploration-and-evolutionary-responsibility.md)
+  * [Efficient Exploration and Evolutionary Responsibility](part-4-getting-the-machines-out-and-getting-us-out/chapter-17-what-success-and-its-consequences-look-like/ethical-exploration-and-responsibility.md)
   * [Vision for Multi-Planetary Humanity](part-4-getting-the-machines-out-and-getting-us-out/chapter-17-what-success-and-its-consequences-look-like/vision-for-multi-planetary-humanity.md)
 * [Chapter 18: The Concept of SpaceBrains](part-4-getting-the-machines-out-and-getting-us-out/chapter-18-the-concept-of-spacebrains/README.md)
   * [Shedding the Body for Longevity](part-4-getting-the-machines-out-and-getting-us-out/chapter-18-the-concept-of-spacebrains/shedding-the-body-for-longevity.md)
