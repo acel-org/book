@@ -165,6 +165,7 @@
 * Provine, William B. Ernst Mayr: Genetics and Speciation, _Genetics_, Volume 167, Issue 3, 1 July 2004, Pages 1041–1046, Provine _Edited by James F. Crow and William F. Dove_[https://doi.org/10.1093/genetics/167.3.1041](https://doi.org/10.1093/genetics/167.3.1041)
 * Derrida, Jacques. _Of Grammatology_. Johns Hopkins University Press, 1998.
 * Heidegger, Martin, et al. _Being and Time_. Blackwell, 1962.
+* Ross, James Perren. “Outlasting the Dinosaurs.” _NOVA_, PBS, Dec. 2023.
 
 
 

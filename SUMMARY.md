@@ -4,19 +4,19 @@
 
 * [Table of Contents](README.md)
 
-## Preface
+## Prologue
 
-* [A Word on This Book's Approach to Perception & the Human Body](preface/a-word-on-this-books-approach-to-perception-and-the-human-body/README.md)
-  * [A Relational Framework of Perception](preface/a-word-on-this-books-approach-to-perception-and-the-human-body/a-relational-framework-of-perception.md)
-  * [Changing the View of the Body](preface/a-word-on-this-books-approach-to-perception-and-the-human-body/changing-the-view-of-the-body.md)
-  * [The Four Orientations of Mutability](preface/a-word-on-this-books-approach-to-perception-and-the-human-body/the-four-orientations-of-mutability.md)
+* [A Word on This Book's Approach to Perception & the Human Body](prologue/a-word-on-this-books-approach-to-perception-and-the-human-body/README.md)
+  * [A Relational Framework of Perception](prologue/a-word-on-this-books-approach-to-perception-and-the-human-body/a-relational-framework-of-perception.md)
+  * [Changing the View of the Body](prologue/a-word-on-this-books-approach-to-perception-and-the-human-body/changing-the-view-of-the-body.md)
+  * [The Four Orientations of Mutability](prologue/a-word-on-this-books-approach-to-perception-and-the-human-body/the-four-orientations-of-mutability.md)
 
-## Prologue: ACEL & Its Foundations
+## Introduction: ACEL & Its Foundations
 
-* [Foundational Concepts, ACEL](prologue-acel-and-its-foundations/foundational-concepts-acel/README.md)
-  * [Accelerating Beyond Accelerationism](prologue-acel-and-its-foundations/foundational-concepts-acel/accelerating-beyond-accelerationism.md)
-  * [The Rise of Accelerant Forks](prologue-acel-and-its-foundations/foundational-concepts-acel/the-rise-of-accelerant-forks.md)
-  * [The Philosophical Underpinnings of ACEL](prologue-acel-and-its-foundations/foundational-concepts-acel/the-philosophical-underpinnings-of-acel.md)
+* [Foundational Concepts, ACEL](introduction-acel-and-its-foundations/foundational-concepts-acel/README.md)
+  * [Accelerating Beyond Accelerationism](introduction-acel-and-its-foundations/foundational-concepts-acel/accelerating-beyond-accelerationism.md)
+  * [The Rise of Accelerant Forks](introduction-acel-and-its-foundations/foundational-concepts-acel/the-rise-of-accelerant-forks.md)
+  * [The Philosophical Underpinnings of ACEL](introduction-acel-and-its-foundations/foundational-concepts-acel/the-philosophical-underpinnings-of-acel.md)
 
 ## Part 1A: Intelligence: & the Way it Moved
 
