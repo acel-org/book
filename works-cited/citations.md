@@ -42,7 +42,7 @@
 * [https://buddhismnow.com/2018/02/16/tittha-sutta-buddhist-parable-of-the-blind-men-and-the-elephant/](https://buddhismnow.com/2018/02/16/tittha-sutta-buddhist-parable-of-the-blind-men-and-the-elephant/)
 * [https://www.gutenberg.org/cache/epub/18835/pg18835-images.html](https://www.gutenberg.org/cache/epub/18835/pg18835-images.html)
 * [https://criticallegalthinking.com/2013/05/14/accelerate-manifesto-for-an-accelerationist-politics/](https://criticallegalthinking.com/2013/05/14/accelerate-manifesto-for-an-accelerationist-politics/)
-* Bateson, G. (1972). _Steps to an ecology of mind_ New York: Ballantine Books.
+* Bateson, G. (1972). _Steps to an Ecology of Mind._ New York: Ballantine Books.
 * Ingold, Tim. _Being Alive: Essays on Movement, Knowledge and Description_. Routledge, 2011.
 * Ingold. _The Perception of the Environment: Essays on Livelihood, Dwelling and Skill_. Routledege, 2011.
 * &#x20;Kuriyama, S. (1999). _The expressiveness of the body and the divergence of Greek and Chinese medicine_. New York: Zone Books.
@@ -168,6 +168,7 @@
 * Heidegger, Martin, et al. _Being and Time_. Blackwell, 1962.
 * Ross, James Perren. “Outlasting the Dinosaurs.” _NOVA_, PBS, Dec. 2023.
 * Whitehead, Alfred North. “The Concept of nature the Tarner Lectures Delivered in Trinity College, November 1919.” _The Project Gutenberg eBook of The Concept of Nature, by A. N. Whitehead._, 8 Aug. 2024, www.gutenberg.org/cache/epub/18835/pg18835-images.html.
+* Moran, Dermot. (2012). Husserl’s Crisis of the European Sciences and Transcendental Phenomenology. An Introduction. 10.1017/CBO9781139025935.
 
 
 
