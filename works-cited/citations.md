@@ -6,7 +6,7 @@
 
 </div>
 
-* Aerospace Corporation. "Environmental Impacts of Rocket Launches." https://aerospace.org/environmental-impacts-rocket-launches
+* Aerospace Corporation. "Environmental Impacts of Rocket Launches". https://aerospace.org/environmental-impacts-rocket-launches.
 * Antoni, EJ. “Wokeness Is Slowly Hollowing out the Fed.” _The Heritage Foundation_, www.heritage.org/markets-and-finance/commentary/wokeness-slowly-hollowing-out-the-fed. Accessed 19 July 2024
 * Aristophanes. “It’s Time to Save Literature from the Woke Publishing Industry.” _The Federalist_, 24 Oct. 2022, thefederalist.com/2022/10/25/its-time-to-save-literature-from-the-woke-publishing-industry/. Accessed 09 July 2024.
 * Aristotle. “De Anima (on the Soul) .” _De Anima (On the Soul)_, antilogicalism.com/wp-content/uploads/2016/12/aristotle\_anima\_final.pdf. Accessed 23 Aug. 2024.
@@ -30,8 +30,8 @@
 * Cheng, D. K. (2015). Field and Wave Electromagnetics. Pearson.
 * Cosmides, Leda, and John Tooby. “Cognitive Adaptations for Social Change.” _The Adapted Mind: Evolutionary Psychology and the Generation of Culture_, Oxford University Press, New York, NY, 1992, pp. 163–228.
 * Crick, F. H. C. The Origin of the Genetic Code. J. Mol. Biol. 38, 367–379 (1968)
-* Darwin , Charles. _The Descent of Man and Selection in Relation to Sex_, 6 July 2016, pure.mpg.de/rest/items/item\_2309881\_7/component/file\_2309880/content. Accessed 06 July 2024.
-* Dawkins, Richard. “The Selfish Gene R Dawkins (1976) WW PDF | Al-Zaytoonah University.” _The Selfish Gene_, 1976, www.zuj.edu.jo/download/the-selfish-gene-r-dawkins-1976-ww-pdf/. Accessed 05 July 2024.
+* Darwin, Charles. _The Descent of Man and Selection in Relation to Sex_. vol. 1 2, John Murray: Albemarle Street, 1871, _MPG.PuRe Publication Repository_, https://pure.mpg.de/rest/items/item\_2309881\_7/component/file\_2309880/content.
+* Dawkins, Richard. “The Selfish Gene.” _Al-Zaytoonah University of Jordan_, Al-Zaytoonah University, 1 May 2014, www.zuj.edu.jo/download/the-selfish-gene-r-dawkins-1976-ww-pdf/.
 * de Villiers, R. (2022). The Human Brain – Cortex, Lobes, Neural Networks and Problem Solved!. In: de Villiers, R. (eds) The Handbook of Creativity & Innovation in Business. Springer, Singapore. https://doi.org/10.1007/978-981-19-2180-3\_2
 * Deleuze, G. (1988). _Spinoza, practical philosophy_ San Francisco: City Lights Books.
 * Deleuze, G. and Guattari, F. (1987). _A thousand plateaus_ Minneapolis: University of Minnesota Press.
@@ -40,6 +40,7 @@
 * Doniger, Wendy , Gold, Ann G. , Dimock, Edward C. , Smith, Brian K. , Basham, Arthur Llewellyn , Narayanan, Vasudha and Buitenen, J.A.B. van. "Hinduism". Encyclopedia Britannica, 2 Jul. 2024, https://www.britannica.com/topic/Hinduism. Accessed 7 July 2024.
 * Doubek, James, et al. “‘Woke Racism’: John McWhorter Argues against What He Calls a Religion of Anti-Racism.” _NPR_, 6 Nov. 2021, www.npr.org/2021/11/05/1052650979/mcwhorters-new-book-woke-racism-attacks-leading-thinkers-on-race. Accessed 11 July 2024.
 * Durkheim, Émile. _The Elementary Forms of Religious Life_. Translated by Karen E. Fields, Free Press, 1995.
+* The Economist. “How Has the Meaning of the Word ‘Woke’ Evolved?” _The Economist_, The Economist Newspaper, 30 July 2021, www.economist.com/the-economist-explains/2021/07/30/how-has-the-meaning-of-the-word-woke-evolved.
 * Eggleston, Ben. “Act utilitarianism,” in The Cambridge Companion to Utilitarianism, edited by Ben Eggleston and Dale E. Miller (Cambridge University Press, 2014), pp. 125–145.
 * Elkins, J. (2001). ‘What is the Difference between the Body's Inside and Its Outside?’ In: S. Kuriyama, ed., _The Imagination of the Body and the History of Embodied Experience_ 1st ed. Kyoto: International Research Center for Japanese Studies, p.16.
 * Emerson, Ralph W. (1993). Self-Reliance and Other Essays. New York: Dover Publications. &#x20;
@@ -47,25 +48,24 @@
 * “Fear Psychosis and the Cult of Safety – Why Are People so Afraid?” _Academy of Ideas | Free Minds for a Free Society_, 5 Nov. 2023, academyofideas.com/2022/04/fear-psychosis-and-the-cult-of-safety/. Accessed 08 July 2024.
 * Fonda, Daren. “Culture Wars Are Hitting Companies. They’re Fighting Back.” _Barron’s_, www.barrons.com/articles/bud-light-woke-companies-culture-wars-c37da7b4. Accessed 09 July 2024.
 * Fridman, Lex. “#407 – Guillaume Verdon: Beff Jezos, E/ACC Movement, Physics, Computation & AGI.” _Apple Podcasts_, Apple Inc., 29 Dec. 2023, podcasts.apple.com/au/podcast/407-guillaume-verdon-beff-jezos-e-acc-movement-physics/id1434243584?i=1000640047523.
-* Friedrich, Casper David. “Wanderer above the Sea of Fog.” _The Paris Review_, 27 Aug. 2018, Hamburger Kunsthalle, Hamburg, https://www.theparisreview.org/blog/2018/08/27/the-art-and-politics-of-wanderlust/.
+* Friedrich, Casper David, and Cody Delistraty. “Wanderer above the Sea of Fog.” _The Paris Review_, 27 Aug. 2018, Hamburger Kunsthalle, Hamburg, https://www.theparisreview.org/blog/2018/08/27/the-art-and-politics-of-wanderlust/. Accessed 7 Aug. 2024.
 * Funk, Max. “Wokeism – the New Religion of the West.” _Converge Media_, 20 Feb. 2021, www.convergemedia.org/wokeism-the-new-religion-of-the-west/. Accessed 09 July 2024.
 * Furedi, Frank. _How Fear Works: Culture of Fear in the Twenty-First Century_. Bloomsbury Continuum, 2018, p. 61.
 * Gardiner, M. E. (2017). Critique of Accelerationism. Theory, Culture & Society, 34(1), 29-52. https://doi.org/10.1177/0263276416656760
 * Gerton, Jennifer L., and R. Scott Hawley. “Homologous chromosome interactions in meiosis: Diversity amidst conservation.” _Nature Reviews Genetics_, vol. 6, no. 6, June 2005, pp. 477–487, https://doi.org/10.1038/nrg1614.
 * Gesteland, Raymond F, Thomas R. Cech, and John F. Atkins, eds. _The RNA World: The Nature of Modern RNA Suggests a Prebiotic RNA World_. 2nd ed., Cold Spring Harbor Laboratory Press, 1999.
 * Glover, Natasha. “The Banana Conjecture.” _Dessimoz Lab: Computational Evolutionary Biology_, 8 Dec. 2020, lab.dessimoz.org/blog/2020/12/08/human-banana-orthologs.
-* Godoy, Jody, and Luc Cohen. “Bankman-Fried Sentenced to 25 Years for Multi-Billion Dollar FTX Fraud | Reuters.” _Reuters_, Thomas Reuters, 28 Mar. 2024, www.reuters.com/technology/sam-bankman-fried-be-sentenced-multi-billion-dollar-ftx-fraud-2024-03-28/.
+* Godoy, Jody, and Luc Cohen. “Bankman-Fried Sentenced to 25 Years for Multi-Billion Dollar FTX Fraud.” _Reuters_, Thomas Reuters, 28 Mar. 2024, www.reuters.com/technology/sam-bankman-fried-be-sentenced-multi-billion-dollar-ftx-fraud-2024-03-28/.
 * Griffiths, D. J. (2017). Introduction to Electrodynamics. Cambridge University Press.
 * Halliday, D., Resnick, R., & Walker, J. (2013). Fundamentals of Physics. Wiley.
-* Hason, Victor Davis. “Wokeism Is a Cruel and Dangerous Cult: .” _The Independent Institute_, www.independent.org/news/article.asp?id=13968. Accessed 09 July 2024.
+* Hanson, Victor Davis. “Wokeism Is a Cruel and Dangerous Cult.” _The Independent Institute_, 24 Jan. 2022, www.independent.org/news/article.asp?id=13968.
 * “Hearing Wrap Up: Federal Government Use of Artificial Intelligence Poses Promise, Peril.” _Committee on Oversight & Accountability_, Committee on Oversight & Accountability, 15 Sept. 2023, https://oversight.house.gov/release/hearing-wrap-up-federal-government-use-of-artificial-intelligence-poses-promise-peril/. Accessed 7 July 2024.
-* Hegel, Georg Wilhelm Friedrich. _Phenomenology of Spirit by G. W. F. Hegel. Transl. by A. V. Miller with Analysis of the Text and Foreword by J. N. Findlay_. Clarendon Press, 1977.
+* Hegel, Georg Wilhelm Friedrich. _Phenomenology of Spirit_. Translated by A V Miller, Oxford University Press, 1977.
 * Heidegger, Martin, et al. _Being and Time_. Blackwell, 1962.
 * Higgs, Paul G., and Niles Lehman. “The RNA world: Molecular cooperation at the origins of life.” _Nature Reviews Genetics_, vol. 16, no. 1, 11 Nov. 2014, pp. 7–17, https://doi.org/10.1038/nrg3841.
 * Holbraad, M., Pedersen, M. and Viveiros de Castro, E. (2014). The Politics of Ontology: Anthropological Positions. _Cultural Anthropology Online_, \[online] p.1. Available at: http://culanth.org/fieldsights/462-the-politics-of-ontology-anthropological-positions.
 * Holzer, T. L., & Pampeyan, E. H. (1981). "Geological Considerations for High-Altitude Launch Sites." Geological Society of America Bulletin, 92(4), 193-204.
 * Houlgate, Stephen. _An Introduction to Hegel: Freedom, Truth, and History_. Blackwell, 2006.
-* “How Has the Meaning of the Word ‘Woke’ Evolved?” _The Economist_, The Economist Newspaper, www.economist.com/the-economist-explains/2021/07/30/how-has-the-meaning-of-the-word-woke-evolved. Accessed 12 July 2024.
 * Hughes, Brian, and Cynthia Miller-Idriss. “The January 6 Boost to Accelerationism.” _CTC Sentinel: Combating Terrorism at West Point_, 2021, pp. 14–18.
 * “Idiocracy.” Twentieth Century-Fox Film Corporation, 2006.
 * Ingold, Tim. _Being Alive: Essays on Movement, Knowledge and Description_. Routledge, 2011.
@@ -87,9 +87,9 @@
 * Long, K. F. (2012). Deep Space Propulsion: A Roadmap to Interstellar Flight. Springer.
 * Lovecraft, H. P. “Supernatural Horror in Literature.” _Supernatural Horror in Literature_, 16 Oct. 2014, web.seducoahuila.gob.mx/biblioweb/upload/supernatural\_horror\_in\_literature.pdf. Accessed 08 July 2024.
 * MacColl, Margaux. “‘It’s a Cult’: Inside Effective Accelerationism, the Pro-AI Movement Taking Over Silicon Valley.” _The Information_, 7 Oct. 2023, www.theinformation.com/articles/its-a-cult-inside-effective-accelerationism-the-pro-ai-movement-taking-over-silicon-valley.
-* “Mace Announces Second Hearing on White House Executive Order on AI.” _Committee on Oversight & Accountability_, Committee on Oversight & Accountability, 15 Mar. 2023, https://oversight.house.gov/release/mace-announces-second-hearing-on-white-house-executive-order-on-ai%EF%BF%BC%EF%BF%BC/. Accessed 7 July 2024.
+* “Mace Announces Second Hearing on White House Executive Order on AI.” _Committee on Oversight & Accountability_, Committee on Oversight & Accountability, 15 Mar. 2024, https://oversight.house.gov/release/mace-announces-second-hearing-on-white-house-executive-order-on-ai/. Accessed 7 July 2024.
 * Mark, Joshua J. "Burial in Ancient Mesopotamia." _World History Encyclopedia_, 2014, pp. 44-45.
-* Mark, Joshua J. “Hinduism.” _World History Encyclopedia_, https://www.worldhistory.org#organization, 8 June 2023, www.worldhistory.org/hinduism/.
+* Mark, Joshua J. “Hinduism.” _World History Encyclopedia_, World History Encyclopedia, 8 June 2020, www.worldhistory.org/hinduism/.
 * Marks, Jonathan. “Studyguide for the Alternative Introduction to Biological Anthropology.” _Internet Archive_, Cram101, 13 Aug. 2013, archive.org/details/studyguideforalt0000cram/page/99/mode/2up. Accessed 23 July 2024.
 * Marks, Jonathan. The Alternative Introduction to Biological Anthropology. United Kingdom, OUP USA, 2011.
 * McGoey, Linsey. “Elite Universities Gave Us Effective Altruism, the Dumbest Idea of the Century.” _Jacobin_, jacobin.com/2023/01/effective-altruism-longtermism-nick-bostrom-racism. Accessed 27 Aug. 2024.
@@ -110,7 +110,7 @@
 * Papastavrou, Nikolaos, et al. “RNA-catalyzed evolution of catalytic RNA.” _Proceedings of the National Academy of Sciences_, vol. 121, no. 11, 4 Mar. 2024, https://doi.org/10.1073/pnas.2321592121.
 * Parker, Jade. “Accelerationism in America: Threat Perceptions.” _GNET_, 4 Feb. 2020, gnet-research.org/2020/02/04/accelerationism-in-america-threat-perceptions/.
 * Parker Pearson, Michael. "The Oxford Handbook of the Archaeology of Death and Burial." Oxford University Press, 2013, pp. 28-29.
-* Poojar , Niranjan  B. “The Origin and Evolution of Wokeism: Unveiling Its Theoretical Foundations and Implications for Bharat - SamvadaWorld.” _Samvada World_, samvadaworld.com/national/the-origin-and-evolution-of-wokeism-unveiling-its-theoretical-foundations-and-implications-for-bharat/#:\~:text=The%20wokeism%20often%20draws%20parallels,groups%20and%20challenges%20existing%20norms. Accessed 09 July 2024.
+* Poojar , Niranjan  B. “The Origin and Evolution of Wokeism: Unveiling Its Theoretical Foundations and Implications for Bharat - SamvadaWorld.” _Samvada World_, 15 Apr. 2024, samvadaworld.com/national/the-origin-and-evolution-of-wokeism-unveiling-its-theoretical-foundations-and-implications-for-bharat/.
 * Provine, William B. “Ernst Mayr.” _Genetics_, vol. 167, no. 3, 1 July 2004, pp. 1041–1046, https://doi.org/10.1093/genetics/167.3.1041.
 * Ratcliff, William  C., et al. “Experimental Evolution of Multicellularity.” Edited by Richard E. Lenski. _PNAS_, vol. 109, no. 5, 31 Jan. 2012, pp. 1595–1600, https://doi.org/https://doi.org/10.1073/pnas.1115323109.
 * Reiff, Nathan. “The Collapse of FTX: What Went Wrong with the Crypto Exchange?” _Investopedia_, Investopedia, 6 June 2024, www.investopedia.com/what-went-wrong-with-ftx-6828447.
@@ -121,11 +121,12 @@
 * Sabatini, Jesse J., and Karl D. Oyler. “Recent Advances in the Synthesis of High Explosive Materials.” _MDPI_, Multidisciplinary Digital Publishing Institute, 29 Dec. 2015, www.mdpi.com/122904.
 * Sagan, Carl. _Cosmos_. Random House, 1980.
 * Sartre, Jean-Paul. _Being and Nothingness: An Essay on Phenomenological Ontology._ Washington Square Press, 1953.
+* Schmitz, Matthew. “The Woke and the Un-Woke.” _Tablet Magazine_, 25 Sept. 2020, www.tabletmag.com/sections/news/articles/woke-religion-america.
 * Seetharaman, Deepa, and Robert MacMillan. “How Effective Altruism Split Silicon Valley—and Fueled the Blowup at Openai .” _The Wall Street Journal_, www.wsj.com/tech/ai/openai-blowup-effective-altruism-disaster-f46a55e8. Accessed 27 Aug. 2024.
 * Sen, Gautam. “How the Woke Are Impacting Politics and Foreign Policy.” _Globalorder_, 16 Jan. 2023, www.globalorder.live/post/how-the-woke-are-impacting-politics-and-foreign-policy. Accessed 11 July 2024.
 * Shapiro, M.L., Riceberg, J.S., Seip-Cammack, K., Guise, K.G. (2014). Functional Interactions of Prefrontal Cortex and the Hippocampus in Learning and Memory. In: Derdikman, D., Knierim, J. (eds) Space, Time and Memory in the Hippocampal Formation. Springer, Vienna. https://doi.org/10.1007/978-3-7091-1292-2\_19
 * Shepherd, Artis. “Fear Is the Mind Killer: America’s Dangerous Obsession with ‘Safety.’” _Mises Institute_, 17 July 2024, mises.org/mises-wire/fear-mind-killer-americas-dangerous-obsession-safety. Accessed 19 July 2024.
-* Smolla M, Jansson F, Lehmann L, Houkes W, Weissing FJ, Hammerstein P, Dall SRX, Kuijper B, Enquist M. (2021) Underappreciated features of cultural evolution. Phil. Trans. R. Soc. B 376: 20200259. https://doi.org/10.1098/rstb.2020.0259
+* Smolla, Marco, et al. (2021) Underappreciated features of cultural evolution. Phil. Trans. R. Soc. B 376: 20200259. https://doi.org/10.1098/rstb.2020.0259
 * Smil, V. (2017). Energy and Civilization: A History. MIT Press.
 * Statista. “Japan: Religious Affiliations in 2021.” _Statista_, 2024, www.statista.com/statistics/1001602/japan-religious-affiliation/. Accessed 7 July 2024.
 * Schmitz, Matthew. “The Woke and the Un-Woke.” _Tablet Magazine_, 25 Sept. 2020, www.tabletmag.com/sections/news/articles/woke-religion-america. Accessed 09 July 2024.
@@ -136,10 +137,10 @@
 * Thoraval, Yannick. “WOKEISM Stifles Debate at Universities.” _The Sydney Morning Herald_, 24 Mar. 2023, www.smh.com.au/education/i-m-a-university-lecturer-and-wokeism-is-stifling-free-debate-in-my-classroom-20230316-p5csor.html. Accessed 12 July 2024.
 * Twidell, J., & Weir, T. (2015). Renewable Energy Resources. Routledge.
 * Turner, T. (2009). ‘The Crisis of Late Structuralism. Perspectivisim and Animism: Rethinking Culture, Nature, Spirit, and Bodiliness’ _Tipití­:_ Journal of the Society for the Anthropology of Lowland South America 7(1), p.34.
-* Turner, d.S., Cox, H. Facilitating post traumatic growth. _Health Qual Life Outcomes_ 2, 34 (2004). https://doi.org/10.1186/1477-7525-2-34.
+* Turner, De Sales, and Helen Cox. “Facilitating Post Traumatic Growth.” _Health and Quality of Life Outcomes_, vol. 2, no. 1, 13 July 2004. _34_, https://doi.org/10.1186/1477-7525-2-34.
 * Tyrrell, Patrick. “What Is Wrong with ‘ESG’ Wokeism.” _The Heritage Foundation_, www.heritage.org/progressivism/commentary/what-wrong-esg-wokeism. Accessed 12 July 2024.
 * University of Oxford. “8.2% of Our DNA Is ‘Functional.’” _University of Oxford_, 25 July 2015, www.ox.ac.uk/news/2014-07-25-82-our-dna-%E2%80%98functional%E2%80%99.
-* University of Tokyo. “New Insight into Possible Origins of Life: For the First Time Researchers Create an RNA Molecule That Replicates.” _SciTechDaily_, 9 June 2024, scitechdaily.com/new-insight-into-possible-origins-of-life-for-the-first-time-researchers-create-an-rna-molecule-that-replicates/.
+* University of Tokyo. “New Insight into Possible Origins of Life: For the First Time Researchers Create an RNA Molecule That Replicates.” _SciTechDaily_, 18 Mar. 2022, scitechdaily.com/new-insight-into-possible-origins-of-life-for-the-first-time-researchers-create-an-rna-molecule-that-replicates/.
 * Venter, J Craig. “A DNA-Driven World.” The 32nd Richard Dimbleby Lecture. 2024, London, The Design Museum.
 * Veysset, David, et al. “High-velocity micro-projectile impact testing.” _Applied Physics Reviews_, vol. 8, no. 1, 1 Mar. 2021, https://doi.org/10.1063/5.0040772.
 * Wang, Fengchao, et al. “Rock breaking performance of TBM disc cutter assisted by high-pressure water jet.” _Applied Sciences_, vol. 10, no. 18, 10 Sept. 2020, p. 6294, https://doi.org/10.3390/app10186294.
