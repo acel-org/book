@@ -22,6 +22,17 @@ Then, he was caught defrauding $8billion from his own customers, and he now sits
 
 The public disillusionment with the once-infallible, "ethics-forward" frontmen of AI Safetyism incited a wave of influential reactionary opinions on regulation in AI. For example, Elon Musk, who, for a brief time took the stance of an AI Safety "Doomer" ([Twitter](https://x.com/elonmusk/status/896166762361704450)), turned about-face and made his AI software, Grok, open source, meaning that the public was free to use it themselves ([Knight](https://www.reuters.com/technology/sam-bankman-fried-be-sentenced-multi-billion-dollar-ftx-fraud-2024-03-28/)). This move was championed by pro-AI, anti-EA groups. One such group, e/acc, or "Effective Accelerationism", has garnered a good deal of public attention in light of its admittedly edgy stances and recommendations within the AI technology discourse.&#x20;
 
+<details>
+
+<summary>Framing Notes</summary>
+
+* Georgescu-Roegen: The Entropy Law and the Economic Process (1971)
+  * limitations, entropy
+* Deleuze and Guattari: Anti-Oedipus (1972)
+  * deterritorialization
+
+</details>
+
 ## ACCEL as e/acc Fork&#x20;
 
 e/acc, whose name parodies EA, is indeed a self-proclaimed counter-movement "virus" intended to, according to its founder Guillaume Verdon, "bring a\[n] \[entropic] balance to the forces \[of constraint]" levied by Effective Altruism. It maintains clearly stated goals built for civilization; to measure success, e/acc -- like EA -- employs a certain "loss function" (i.e. in machine learning, a formulaic mapping of some non-quantifiable variable onto discrete numbers in order to portray a "cost" of said variable). While EA deploys "hedons", or units of hedonism, as its variable, e/acc uses energy ([Friedman](https://podcasts.apple.com/au/podcast/lex-fridman-podcast/id1434243584?i=1000640047523)).&#x20;
@@ -33,3 +44,15 @@ As we can see, with a thematic focus on output maximization, e/acc is Accelerati
 Enter ACEL: With a more inclusionary, human-centric framework of priority "outputs", thereby offering a friendlier and more palatable nature than "technocapitalism-or-bust", ACEL seeks to scale the potentialities latent in e/acc and bring them to a wider audience. While maintaining _energy_ as its loss function's core unit, by grounding its core beliefs in Mises's free market, and particularizing an interstellar researched plan, ACEL undeniably ties itself to e/acc; yet by reorienting its Accelerationist  output priorities to human intelligence, human agency, and human evolution, it thereby eases buy-in and palatability.&#x20;
 
 \
+
+
+<details>
+
+<summary>Framing Notes</summary>
+
+* Mises: Human Action (1949)
+  * free market, purposeful action
+* Hegel: Phenomenology of Spirit (1807)
+  * ACEL = necessary evolution
+
+</details>

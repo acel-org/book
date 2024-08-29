@@ -4,7 +4,7 @@ description: '“The inside is the outside” (Kasulis, Ames, and Dissanayake 19
 
 # Changing the View of the Body
 
-## Finding Precedent in the Memetic Archive
+Finding Precedent in the Memetic Archive
 
 With the inauguration of the World Health Organization (WHO) in 1966, an era was instantiated and stabilized, one in which the medical seats of global nations by and large agreed to reorient and  conform their national memetic repositories to a single, standardized model of the human body -- both its anatomical and biological structures. At just 58 years of age, this era -- characterized by a centralized, almost sterile view of our anatomical vehicle -- is but an infant compared to the half-lives come and gone, the sheer quantity of rhizomatic instantiations, the countless permutations of types of "bodily gazes" that have materialized, evolved, died, consolidated over the past two thousand years. And, just as Accelerationism, accelerating as it is into its own adolescence, stands poised to proclaim and deliver its own novel contribution, one that is both functionally and aesthetically fascinating, without proper contextualization or theoretical precedent, its intended gift to our memetic repository would only fall noiseless into this post-growth government-aesthetic sterility. As it refuses to decelerate in light of this, yet accepting the charges so as to be taken seriously, it must then turn to the past for templates with aligned thematics upon which it may build a lasting theoretical framework.&#x20;
 
@@ -13,6 +13,17 @@ Fortunately, humanity possesses an expansive memetic archive: preserved writings
 The 1999 monograph, _The Expressiveness of the Body and the Divergence of Greek and Chinese Medicine,_ written by Harvard Japanologist and historian Shigehisa Kuriyama, affords an excellent starting point in Accelerationism's search for theoretical precedent. For, as is the nature of binary structures to amplify magnitudes of difference and similarity, parallelisms and disparities, Kuriyama's book -- as it delivers the _originating historical situations_ of contemporaneous ancient Greeks and ancient Chinese, and their wildly divergent paths toward understanding the anatomical human structure -- holds a magnifying glass to how these cultures instantiated and evolved their own worlds often through arbitrary assumptions and cultural preference.
 
 By positioning the ancient Greeks and ancient Chinese parallel and at the same directionally-oriented starting line, Kuriyama -- in an almost cartographic way -- maps these two cultures' degrees of separation, their half-lives, and any lines of resonance or points of contact between their models. In this way, Kuriyama opens a door for Accelerationism to easily identify any taken-for-granted assumptions about human bodies across their cultural belief systems. Holding sacred some of the clearest analysis of early medical theory of the last few centuries, _Expressiveness_ should offer Accelerationism an aperture by which to enter -- _from the West --_ humanity's diverse anatomical archives and start to construct its own theoretical framework off of this half-life-rich template. Following this, we will move to conduct our own studies of the "body" in early China, highlighted by one specific Daoism meditative practice.
+
+<details>
+
+<summary>Framing Notes</summary>
+
+* Kuriyama: The Expressiveness of the Body and the Divergence of Greek and Chinese Medicine (1999)
+  * differing historical bodies
+* Ingold: Lines: A Brief History (2007)
+  * "lines", "meshwork", cultural views of bodies
+
+</details>
 
 ### Historical Case Study 1: Hellenistic Physicians Install "Agency" into Body
 
@@ -35,6 +46,20 @@ Thus, Hellenistic physicians give us the following syllogism:
 The implications here are wide-ranging. The Hellenistic physicians knew, whether explicitly or not, that _agency was_ _mutable_; agency could be _actively changed_ by the agent him or herself. Accelerationism, even if subconsciously, deploys this assumption as well: Accelerators aim to actively _maximize_ _agency._ Not some passive enterprise, the accelerator-agent deliberately _effects_ their mobilizations of self: T_hey_ create themselves. This notion is reminiscent of anthropologist Terrence Turner's discourse on Animism, where he wrote of forms or things as having “the power to produce themselves” (Turner 2009: 34). Indeed, Accelerationism, as well as Western culture generally, seems to rest on this agented ability to _make yourself_.
 
 That this first case study located the origins of _agency_ and teased out its implications in light of Accelerationist thought will prove useful when later articulating Accelerationism's _new, upgraded body_. Having logged this overlooked assumption in our theoretical repository, the next case study on early China and Daoism will offer more theoretical grounding for the _upgraded body_ of Accelerationism.
+
+<details>
+
+<summary>Framing Notes</summary>
+
+* Hegel: Phenomenology of Spirit (1807)
+  * opposites form higher synthesis, focused mutability, manipulated relationality
+
+<!---->
+
+* Mises: Human Action (1949)
+  * action + agency can be developed + maximized
+
+</details>
 
 ### Historical Case Study 2:  Early Chinese/Daoist Representations of the Body&#x20;
 
@@ -84,3 +109,13 @@ As seen, the final, ultimate goal of _neidan_ is, as Daoism scholar Isabelle Rob
 
 Does this not sound of a similar final world to that of the Accelerationist Energy Machine? The pursuit of longevity towards immortality and an embodied dissolution into the fabric of the universe. It is quite possible that Accelerationism would consider Dao, then, to be exactly that which the Energy Machines evolve and dissolve into, assimilate with and thus complete humanity's goal. With such similar language guiding both of their goals, it is quite curious then how _shen_  神 might very well be ACCEL's "Energy Machine".&#x20;
 
+<details>
+
+<summary>Framing Notes</summary>
+
+* Yuasa: The Body: Toward an Eastern Mind-Body Theory (1987)
+  * body \~ environment
+* Deleuze and Guattari: A Thousand Plateaus (1980)
+  * "becoming", fluidity
+
+</details>

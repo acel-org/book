@@ -1,4 +1,4 @@
-# The Limitation in Current Space Exploration
+# Acknowledging Limitation in Current Space Exploration
 
 As we peer out into space, looking ahead toward an era of explorers and settlers, we find ourselves up against constraints locked deep within our very methods of space travel as they currently exist. Exploring the stars is an ambition as time-honored as humanity itself, but the ways we pursue this dream may be conditioned by paradigms that end up closing in on us. It is high time to question these paradigms, challenge the status quo, and move ahead by imagining a future in which our reach is not confined within the rote paradigms of the past but expanded into the possibilities that innovation brings.
 

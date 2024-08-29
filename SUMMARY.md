@@ -90,7 +90,7 @@
   * [Technology Will Confront Humanity](part-4-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario/placeholder-technology-will-confront-humanity.md)
   * [Helping Them to Not Hurt Us](part-4-getting-the-machines-out-and-getting-us-out/chapter-15-the-impending-dodo-scenario/placeholder-helping-them-to-not-hurt-us.md)
 * [Chapter 16: The ACEL Tunnel: Humanity's Best Shot at Not Getting 'Dodo'd'](part-4-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod/README.md)
-  * [Acknowledging Limitation in Current Space Exploration](part-4-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod/acknowledging-limitation-in-current-space-exploration.md)
+  * [Acknowledging Limitation in Current Space Exploration](part-4-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod/the-limitation-in-current-space-exploration.md)
   * [Visionary Concepts and The ACEL Tunnel](part-4-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod/visionary-concepts-and-the-acel-tunnel.md)
   * [Overcoming Barriers to Progress](part-4-getting-the-machines-out-and-getting-us-out/chapter-16-the-acel-tunnel-humanitys-best-shot-at-not-getting-dodod/overcoming-barriers-to-progress.md)
 * [Chapter 17: What Success (& its Consequences) Look Like](part-4-getting-the-machines-out-and-getting-us-out/chapter-17-what-success-and-its-consequences-look-like/README.md)

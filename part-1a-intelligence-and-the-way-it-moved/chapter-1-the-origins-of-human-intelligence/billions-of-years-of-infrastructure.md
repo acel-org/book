@@ -14,6 +14,16 @@ Incorporating this past into the term brings with it the stock of humanity's his
 
 But ACEL does not stop at early humans: Its definition of humanity extends beyond _homo sapien sapiens_: That more than 90% of human DNA does not carry any functional role betrays that a critical mass of current human genetic material exists as hardly more than a fossilized, molecular, evolutionary blueprint (University of Oxford). Current humans also share significant portions of genetic material, e.g. metabolic proteins functional to all eukaryotic organisms, with other species (even sharing \~20% of it with bananas) (Glover). This fact underscores another central theme of ACEL: _All life forms on earth are relational._&#x20;
 
+<details>
+
+<summary>Framing Notes</summary>
+
+* Haraway: A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century (1985)
+  * understanding of human only complete when viewing animals + tech
+*
+
+</details>
+
 ### Overlaying ACEL's _Humanity_ onto Hegel's _History_, Delicately
 
 While perhaps unconventional to include, in a definition of (what is commonly understood as) _one_ species, _all_ beings that has ever been able to express agency whilst manifesting intelligence; or, multiple kinds of species in an historical account of just one, the inclusive containment of ACEL's _humanity_ is, in a way, little more than a _relational aggregate_ overlaid onto, not all, but just one manageable piece of G.W.F. Hegel's expansive philosophical map; that is, his notion of _history_: University of Warwick professor and Hegelian Dialectic expert, Stephen Houlgate, claims that "History \[for Hegel] is... the process whereby mankind becomes aware of itself as free, self-determining and therefore historical. The absolute truth of humanity is that we are historical, and the history of humanity is the process of coming to recognize our absolute, historical character. History and truth are thus completely inseparable for Hegel, and it is not possible to drop or reject either term" (Houlgate 17). The historical process carried out by humans, then, the one in which humanity becomes evermore aware of itself, is directionally driven by the "goal... to become conscious of&#x20;themselves as freely and historically self-productive and self-determining" (Houlgate 21).&#x20;
