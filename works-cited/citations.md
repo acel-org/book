@@ -110,6 +110,7 @@
 * Papastavrou, Nikolaos, et al. “RNA-catalyzed evolution of catalytic RNA.” _Proceedings of the National Academy of Sciences_, vol. 121, no. 11, 4 Mar. 2024, https://doi.org/10.1073/pnas.2321592121.
 * Parker, Jade. “Accelerationism in America: Threat Perceptions.” _GNET_, 4 Feb. 2020, gnet-research.org/2020/02/04/accelerationism-in-america-threat-perceptions/.
 * Parker Pearson, Michael. "The Oxford Handbook of the Archaeology of Death and Burial." Oxford University Press, 2013, pp. 28-29.
+* Pelligra, Vittorio, and Pier Luigi Sacco. “Searching for meaning in a post-scarcity society. implications for creativity and job design.” _Frontiers in Psychology_, vol. 14, 12 Sept. 2023, https://doi.org/10.3389/fpsyg.2023.1198424.
 * Poojar , Niranjan  B. “The Origin and Evolution of Wokeism: Unveiling Its Theoretical Foundations and Implications for Bharat - SamvadaWorld.” _Samvada World_, 15 Apr. 2024, samvadaworld.com/national/the-origin-and-evolution-of-wokeism-unveiling-its-theoretical-foundations-and-implications-for-bharat/.
 * Provine, William B. “Ernst Mayr.” _Genetics_, vol. 167, no. 3, 1 July 2004, pp. 1041–1046, https://doi.org/10.1093/genetics/167.3.1041.
 * Ratcliff, William  C., et al. “Experimental Evolution of Multicellularity.” Edited by Richard E. Lenski. _PNAS_, vol. 109, no. 5, 31 Jan. 2012, pp. 1595–1600, https://doi.org/https://doi.org/10.1073/pnas.1115323109.
