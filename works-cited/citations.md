@@ -41,6 +41,7 @@
 * Doniger, Wendy , Gold, Ann G. , Dimock, Edward C. , Smith, Brian K. , Basham, Arthur Llewellyn , Narayanan, Vasudha and Buitenen, J.A.B. van. "Hinduism". Encyclopedia Britannica, 2 Jul. 2024, https://www.britannica.com/topic/Hinduism. Accessed 7 July 2024.
 * Doubek, James, et al. “‘Woke Racism’: John McWhorter Argues against What He Calls a Religion of Anti-Racism.” _NPR_, 6 Nov. 2021, www.npr.org/2021/11/05/1052650979/mcwhorters-new-book-woke-racism-attacks-leading-thinkers-on-race. Accessed 11 July 2024.
 * Durkheim, Émile. _The Elementary Forms of Religious Life_. Translated by Karen E. Fields, Free Press, 1995.
+* Earl, Brian. “The biological function of consciousness.” _Frontiers in Psychology_, vol. 5, 5 Aug. 2014, https://doi.org/10.3389/fpsyg.2014.00697.
 * The Economist. “How Has the Meaning of the Word ‘Woke’ Evolved?” _The Economist_, The Economist Newspaper, 30 July 2021, www.economist.com/the-economist-explains/2021/07/30/how-has-the-meaning-of-the-word-woke-evolved.
 * Eggleston, Ben. “Act utilitarianism,” in The Cambridge Companion to Utilitarianism, edited by Ben Eggleston and Dale E. Miller (Cambridge University Press, 2014), pp. 125–145.
 * Elkins, J. (2001). ‘What is the Difference between the Body's Inside and Its Outside?’ In: S. Kuriyama, ed., _The Imagination of the Body and the History of Embodied Experience_ 1st ed. Kyoto: International Research Center for Japanese Studies, p.16.
@@ -83,6 +84,7 @@
 * Kuriyama, S. (1999). _The expressiveness of the body and the divergence of Greek and Chinese medicine_. New York: Zone Books.
 * Kuriyama, S. (2001). ‘The Imagination of the Body and the History of Embodied Experience: The Case of Chinese Views of the Viscera’ In: S. Kuriyama, ed., _The Imagination of the Body and the History of Embodied Experience_ 1st ed. Kyoto: International Research Center for Japanese Studies, pp.16-29.
 * Lang, Hannah. “Sam Bankman-Fried’s Sudden Turn from White Knight to Washout.” _Reuters_, Thomas Reuters, www.reuters.com/technology/sam-bankman-frieds-sudden-turn-white-knight-washout-2022-11-12/. Accessed 27 Aug. 2024.
+* Lewis, Ralph. “The Evolutionary Origins of Consciousness.” _Psychology Today_, Sussex Publishers, 1 Oct. 2020, www.psychologytoday.com/us/blog/finding-purpose/202010/the-evolutionary-origins-consciousness.
 * Li, T., Cai, M., & Cai, M. (2007). A review of mining-induced seismicity in China. International Journal of Rock Mechanics and Mining Sciences, 44(8).
 * Lindsay, James. “No, the Woke Won’t Debate You. Here’s Why.” _New Discourses_, 25 Apr. 2021, newdiscourses.com/2020/07/woke-wont-debate-you-heres-why/. Accessed 11 July 2024.
 * Lindsay, James. “The Rise of the Woke Cultural Revolution.” _New Discourses_, 14 Apr. 2021, newdiscourses.com/2021/04/rise-woke-cultural-revolution/. Accessed 11 July 2024.
@@ -104,6 +106,7 @@
 * Mizuuchi, Ryo, et al. “Evolutionary transition from a single RNA replicator to a multiple Replicator Network.” _Nature Communications_, vol. 13, no. 1, 18 Mar. 2022, https://doi.org/10.1038/s41467-022-29113-x.
 * Moon, F. C. (2008). Superconducting Levitation: Applications to Bearings and Magnetic Transportation. Wiley-VCH.
 * Moran, Dermot. (2012). Husserl’s Crisis of the European Sciences and Transcendental Phenomenology. An Introduction. 10.1017/CBO9781139025935.
+* Mudrik, Liad. “Consciousness: What It Is, Where It Comes from - and Whether Machines Can Have It.” _Nature News_, Nature Publishing Group, 30 Oct. 2023, www.nature.com/articles/d41586-023-03335-5.
 * Musk, Elon. "Making Humans a Multiplanetary Species." New Space, 2017.
 * Musk, Elon. “X.Com.” _X (Formerly Twitter)_, 11 Aug. 2017, x.com/elonmusk/status/896166762361704450.
 * Neiman, Susan. “The Fatal Tension at the Heart of Wokeism.” _Time_, 27 June 2023, time.com/6290367/susan-neiman-tension-at-the-heart-of-wokeism/. Accessed 09 July 2024.
