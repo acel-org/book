@@ -1,6 +1,6 @@
 # Fear: The Mind Killer
 
-"I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain. " - ([Frank Herbert](https://www.goodreads.com/quotes/2-i-must-not-fear-fear-is-the-mind-killer-fear-is))
+"I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain. " - (Frank Herbert)
 
 ## Functionalities of Early Human Fear
 
@@ -10,6 +10,22 @@ To be sure, in an historical sense, fear has carried with it an absolute utility
 
 In this medical theory, fear -- or, rather, the anticipation of fear -- is the primary determinant for survival. Historically, this makes sense: Consider our early human ancestors of the late Middle Pleistocene epoch, whose predators posed an ever-credible threat (Cancellieri et al.). In any engaged moment of intensity between an early man and a nearby dangerous animal, say, a saber-toothed tiger, his body's ability to anticipate fear effectuated his survival (hopefully). Likely, our early man experienced a number of _true_ life-or-death situations throughout his life, each one reenforcing the last, strengthening this hypothalamic response; down through the countless lines of offspring would it finally arrive to us, ultra-fortified, right when we no longer really need it.&#x20;
 
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
 ## The Futility of Fear in Modernity
 
 As it is, we are still programmed to run from this very same sabertooth tiger, despite the fact that this beast has been extinct for over 11,000 years ([Britannica](https://www.britannica.com/animal/saber-toothed-cat)).  Considering this, might we be walking around with some severely outdated, skittish, even faulty neurological software? As we know well how computers can act when we neglect their regular updates, might this obvious low-version inefficiency in our embodiment cause us any problems in the future?&#x20;
@@ -17,6 +33,22 @@ As it is, we are still programmed to run from this very same sabertooth tiger, d
 To be sure, in rare modern moments -- say, to veer away from the last-minute swerve of a drunk driver, or to run from a killer -- the threat-trigger does indeed aid in our survival. But note the modifier _rare_ here: for, in the comforts of our modern world, where the majority of humans have never actually experienced a _true_ life-threatening situation and likely never will, we no longer require this once-necessary hair-trigger sensitivity to perceived threats. The Academy of Ideas agrees, saying, "Today we live longer than ever before. Our chance of dying from war, natural disaster, pandemics, or starvation are at levels our ancestors could only have dreamed of" ([Academy of Ideas](https://academyofideas.com/2022/04/fear-psychosis-and-the-cult-of-safety/)). In fact, ACEL will argue that, while there was a period when this hypothalamic response was key to our evolutionary survival, it now threatens it, as it restrains us from moving forward during non-crises moments it mistakes for such. In these instances, we quite literally _overreact_ with fear; the Academy of Ideas implies the needlessness of this overreaction, stating, "Hardly anyone questions, however, whether we should be so fearful." We've become handicapped by our anachronistic biology that hasn't yet adapted to the nonthreatening world in which we live. In a word, our brains _malfunction_, fearing threats that in fact do not exist.&#x20;
 
 Should this pattern persist in our collective behavior, we will undoubtedly miss opportunities to activate our potential and agency when they are most essential for evolutionary leaps. For ACEL, this is not acceptable, as any missed opportunity poses a potentially damning threat to our species' progress; and thus is why _fear_ is the most crippling factor to human evolution: It is the "brake pedal" to our evolutionary car. And, when this brake that is fear is pressed down, the fearful human, inherently full of intense potency -- _decelerates_. Decelerated by fear, this fearful human linearly reduces their infinite possibilities to an area of finite space no bigger than one's own safe driveway.&#x20;
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
 
 ## The Perils of Safetyism
 
@@ -26,11 +58,27 @@ With this "minimize-fear/maximize-safety" methodology steering our evolutionary 
 
 The hegemonic structures of Western culture are in part to blame for this modern no-risk Safetyism. The Academy of Ideas holds that "The quest for safety has become the raison d’etre of the West... the rules and restrictions erected at the altar of safety have ballooned to absurd proportions and intruded on evermore areas of life... no matter how irrational or authoritarian they are... no matter whether there is any evidence... safety rules and restrictions are held by most people to be essential and beyond question." And, while they have beaten this dead horse of safety-or-bust into us far beyond the baseline adult need to be told , we have not evolved one biological inch closer to removing our all-but-redundant fear-instinct, no closer are we in replacing it with a response more apposite to our contemporary situation.&#x20;
 
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
 ## Comfort is a Brain-Eater&#x20;
 
-Instead, this vestigial appetite to maximize safety has only found humans decaying both body and mind in self-restricting, agency-murdering comfort zones. Now, we are too cozy to pursue risk, too apathetic to advance into the unknown: Comfort has silently and cruelly displaced safety. This process started in subtle ways to come into form during the Industrial Revolution: When reduced was the need for physical labor, _comfort_ began to take its ascent as a Western priority. While falling off somewhat prior to the turn of the century, the digital information age has seen a resurgence in the West's interests in indenting couch cushions, as sedentary, zero-risk, tech-based activities dominate our day-to-day lives, doing for the most part, zero-good. ([U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/btn/volume-7/television-capturing-americas-attention.htm)).&#x20;
+Instead, this vestigial appetite to maximize safety has only found humans decaying both body and mind in self-restricting, agency-murdering comfort zones. Now, we are too cozy to pursue risk, too apathetic to advance into the unknown: Comfort has silently and cruelly displaced safety. This process started in subtle ways to come into form during the Industrial Revolution: When reduced was the need for physical labor, _comfort_ began to take its ascent as a Western priority. While falling off somewhat prior to the turn of the century, the digital information age has seen a resurgence in the West's interests in indenting couch cushions, as sedentary, zero-risk, tech-based activities dominate our day-to-day lives, doing for the most part, zero-good. (Krantz-Kent).&#x20;
 
-Certainly, this sheepish avoidance of risk in the pursuit of safety and comfort was not always the standard. The Academy of Ideas states, "In Ancient Greece and Rome, courage was held in high regard... individuals were proactive in the face of risks and daring... 'Fortune favours the brave', according to the Latin proverb... in many past civilizations it was acknowledged that uncertainty is not only a source of potential danger but also of opportunity." They then compare that to now, saying, "Instead of being celebrated, today the risk-taker is often castigated as foolish, selfish, and a danger to both himself and others. This negative perception of risk-taking is driven by worst-case thinking... This... has even infiltrated the highest levels of government... politicians and policy makers have adopted the utopian goal of socially-engineering a “zero-risk” society... to the applause of the fearful masses" ([Academy of Ideas](https://academyofideas.com/2022/04/fear-psychosis-and-the-cult-of-safety/)). So, truly, how condemnable is it of the supine couch potato to find tantalizing the every-half-hour spritz of his living room air freshener as he asks, "Why do anything else?" The answer is: enough.&#x20;
+Certainly, this sheepish avoidance of risk in the pursuit of safety and comfort was not always the standard. The Academy of Ideas states, "In Ancient Greece and Rome, courage was held in high regard... individuals were proactive in the face of risks and daring... 'Fortune favours the brave', according to the Latin proverb... in many past civilizations it was acknowledged that uncertainty is not only a source of potential danger but also of opportunity." They then compare that to now, saying, "Instead of being celebrated, today the risk-taker is often castigated as foolish, selfish, and a danger to both himself and others. This negative perception of risk-taking is driven by worst-case thinking... This... has even infiltrated the highest levels of government... politicians and policy makers have adopted the utopian goal of socially-engineering a “zero-risk” society... to the applause of the fearful masses" (Academy of Ideas). So, truly, how condemnable is it of the supine couch potato to find tantalizing the every-half-hour spritz of his living room air freshener as he asks, "Why do anything else?" The answer is: enough.&#x20;
 
 We ought to know that our decelerant Western hegemonies have it in for anyone who aims to embrace life outside of their prescriptive model, so to the accelerator, their influence, that is more or less a given, is hardly to blame for our laziness. So, even more than our soulless rulers who are paid by safety lobbyists for every inch of risk they take from us, what source have we to blame for this long still-wind on our evolutionary voyage? It is none but fear itself: the mind killer.&#x20;
 

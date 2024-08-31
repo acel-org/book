@@ -14,6 +14,7 @@
 * Ash, Harrison B. _On Agriculture_. Columella, Lucius Junius Moderatus. Harvard University Press, 1941. 3 vols.
 * Al Awam, Ibn Mohammed Ibn Ahmed Ibn. Kitab Al- Filaha (Book of Agriculture). India, Repro Books Limited, 2017.
 * Barron , Robert. “The Philosophical Roots of Wokeism.” _Acton Institute_, 8 Jan. 2024, www.acton.org/religion-liberty/volume-34-number-1/philosophical-roots-wokeism. Accessed 09 July 2024.
+* Bartosch, Jo. “Beware Trans Ideas in Sheep’s Clothing.” _Spiked Beware Trans Ideas in Sheeps Clothing Comments_, spiked, 20 Nov. 2020, www.spiked-online.com/2020/11/19/beware-trans-ideas-in-sheeps-clothing/.
 * Bateson, G. (1972). _Steps to an Ecology of Mind._ New York: Ballantine Books.
 * Bateson, W. _Methods and Scope of Genetics_. Cambridge University Press, 1908.
 * Battelle Technology Partnership Practice. “Economic Impact of the Human Genome Project.” _Battelle Memorial Institute_ , May 2011, Accessed Aug. 2024.
@@ -62,6 +63,7 @@
 * “Hearing Wrap Up: Federal Government Use of Artificial Intelligence Poses Promise, Peril.” _Committee on Oversight & Accountability_, Committee on Oversight & Accountability, 15 Sept. 2023, https://oversight.house.gov/release/hearing-wrap-up-federal-government-use-of-artificial-intelligence-poses-promise-peril/. Accessed 7 July 2024.
 * Hegel, Georg Wilhelm Friedrich. _Phenomenology of Spirit_. Translated by A V Miller, Oxford University Press, 1977.
 * Heidegger, Martin, et al. _Being and Time_. Blackwell, 1962.
+* Herbert, Frank. _Dune_. New English Library, 1972.
 * Higgs, Paul G., and Niles Lehman. “The RNA world: Molecular cooperation at the origins of life.” _Nature Reviews Genetics_, vol. 16, no. 1, 11 Nov. 2014, pp. 7–17, https://doi.org/10.1038/nrg3841.
 * Holbraad, M., Pedersen, M. and Viveiros de Castro, E. (2014). The Politics of Ontology: Anthropological Positions. _Cultural Anthropology Online_, \[online] p.1. Available at: http://culanth.org/fieldsights/462-the-politics-of-ontology-anthropological-positions.
 * Holzer, T. L., & Pampeyan, E. H. (1981). "Geological Considerations for High-Altitude Launch Sites." Geological Society of America Bulletin, 92(4), 193-204.
@@ -77,6 +79,7 @@
 * Kasulis, T., Ames, R. and Dissanayake, W. (1993). _Self as body in Asian theory and practice_ Albany: State University of New York Press.
 * Knight, Will. “Why Elon Musk Had to Open Source Grok, His Answer to Chatgpt.” _Wired_, Conde Nast, 11 Mar. 2024, www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/.
 * Komjathy, L. (2007). _Cultivating perfection_ Leiden: Brill.
+* Krantz-Kent, Rachel. “Television, Capturing America’s Attention at Prime Time and Beyond.” _U.S. Bureau of Labor Statistics_, United States Department of Labor, Sept. 2018, www.bls.gov/opub/btn/volume-7/television-capturing-americas-attention.htm.
 * Kuriyama, S. (1999). _The expressiveness of the body and the divergence of Greek and Chinese medicine_. New York: Zone Books.
 * Kuriyama, S. (2001). ‘The Imagination of the Body and the History of Embodied Experience: The Case of Chinese Views of the Viscera’ In: S. Kuriyama, ed., _The Imagination of the Body and the History of Embodied Experience_ 1st ed. Kyoto: International Research Center for Japanese Studies, pp.16-29.
 * Lang, Hannah. “Sam Bankman-Fried’s Sudden Turn from White Knight to Washout.” _Reuters_, Thomas Reuters, www.reuters.com/technology/sam-bankman-frieds-sudden-turn-white-knight-washout-2022-11-12/. Accessed 27 Aug. 2024.

@@ -8,9 +8,9 @@ description: >-
 
 ## Deploying Our Natural Appetite for Knowledge
 
-For all of the evolutionary mechanisms that have shaped and reshaped human biological systems over our species' extant millennia, it is the manifest complexity of the brain — particularly the frontal lobe, the sensory cortex, and the hippocampus (just some of the neural structures determining how our brain seeks out, processes, and retains information) — that has turned humans into exploratory powerhouses ([de Villiers](https://link.springer.com/chapter/10.1007/978-981-19-2180-3\_2); [Jacobson](https://link.springer.com/book/10.1007/978-3-319-60187-8) et al.).
+For all of the evolutionary mechanisms that have shaped and reshaped human biological systems over our species' extant millennia, it is the manifest complexity of the brain — particularly the frontal lobe, the sensory cortex, and the hippocampus (just some of the neural structures determining how our brain seeks out, processes, and retains information) — that has turned humans into exploratory powerhouses (de Villiers; Jacobson et al.).
 
-That humans wield the planet's the most complex hippocampus (this being the seat of compulsion to learn), our species asserts unparalleled ranges of agency, amplitudes and amperages away in our need to seek out and acquire knowledge. Another way of putting this is we are the biological machine _most programmed to be curious;_ we are also the best hardwired to gratify that curiosity. This is because within our Limbic System — a system consisting of the Hippocampus, Cingulate Gyrus, Thalamus, and the Basal Ganglia — resides a more or less inexhaustible, infinite reservoir of memory: infinite, if not for the finite body in which it is housed ([Shapiro](https://link.springer.com/chapter/10.1007/978-3-7091-1292-2\_19) et al.).&#x20;
+That humans wield the planet's the most complex hippocampus (this being the seat of compulsion to learn), our species asserts unparalleled ranges of agency, amplitudes and amperages away in our need to seek out and acquire knowledge. Another way of putting this is we are the biological machine _most programmed to be curious;_ we are also the best hardwired to gratify that curiosity. This is because within our Limbic System — a system consisting of the Hippocampus, Cingulate Gyrus, Thalamus, and the Basal Ganglia — resides a more or less inexhaustible, infinite reservoir of memory: infinite, if not for the finite body in which it is housed (Shapiro et al.).&#x20;
 
 From this last reflection comes manifest a pressure, an intensity born of finitude that moves one to act in frameworks of optimism. Resonating with the concept of "post-traumatic growth" in the field of psychology (Turner et al.), this reckoning with mortality is but one mode of inspiration by which one arrives to ACEL, to a more intimate engagement with, a more direct and earnest activation of the latent potentials within one's agency. Which cadence one's agency takes from here, whatever the genre of their manifestation, all is in every case propelled memetically forward by the individual's self-contained, deliberately-aimed active will: each curious step taken across the memetic topography is a _toward-intelligence, toward-knowledge_, ergot _toward-evolution._&#x20;
 
@@ -20,11 +20,87 @@ Additionally, as a self-aware agent extending out in relational lines, equipping
 
 And why would we want to temper our body's organic will-to-learn, anyhow? As our body, being a gift to which we have temporary access, is formed in a way so as to have no ceiling to our capacity for intelligence, we must focus all of our efforts on feeding our appetite for knowledge; we are, quite literally, made to be learners. Such is why ACEL deems intelligence as its "output": because we can, we _must._ American philosopher Dan Dennett's reflection on memes as, "spreading simply because they could spread," is reminiscent of just this: as with the units of cultural knowledge, just so with their human carrier agents (9). As with memes, so are we, and so we are. In accepting and activating this role within ourselves, we _directly_ accelerate the evolution of our species; and, considering the finite nature of embodiment, we must prioritize above all an adherence to _efficiency_ in our pursuit of all intelligence.
 
+<details>
+
+<summary>Framing</summary>
+
+* Dan Dennett: Dennett's notion of memes as “viruses of the mind” fits seamlessly into the discussion of the memetic nature of human knowledge acquisition. Dennett's work in cognitive science and philosophy, particularly his explorations of consciousness and cultural evolution, provides a robust framework for understanding how humans have evolved to spread knowledge memetically.&#x20;
+  * Dennett’s exploration of how memes shape consciousness and societal structures is crucial in understanding the memetic framework ACEL advocates. His work provides a foundational perspective on how memes can drive human evolution, making his theories particularly relevant to this chapter.
+* Alfred North Whitehead: Whitehead’s concept of time as a continuum (as discussed in "Process and Reality") reinforces the idea that the human brain's capacity for knowledge is fluid and ongoing, rather than a fixed state. His process philosophy underscores the dynamic, ever-evolving nature of human consciousness.
+  * Whitehead’s emphasis on the processual nature of reality aligns with the chapter’s focus on the continuous evolution of intelligence through memetic exchanges. His ideas help justify the need to view knowledge as a fluid, ongoing process.
+* Jacques Derrida: Derrida's concept of différance could be applied to the discussion of memetic transmission, emphasizing the idea that meaning and knowledge are constantly deferred and differ within the cultural context.
+  * Derrida’s notion of différance is relevant in illustrating how knowledge is not static but is constantly evolving through memetic transmission, highlighting the importance of adaptation and evolution in ACEL’s philosophy.
+* Michel Foucault: Foucault's ideas on power/knowledge dynamics can be integrated to analyze how knowledge is not just a passive acquisition but an active force that shapes societal structures and individual agency.
+  * Foucault’s analysis of how knowledge can be a tool of power reinforces the chapter’s argument that harnessing memetic knowledge can lead to greater agency and, ultimately, the survival and evolution of humanity.
+
+**Sources:**
+
+* Dennett, Daniel. "Consciousness Explained." Little, Brown and Co., 1991.
+* Whitehead, Alfred North. "Process and Reality." Macmillan, 1929.
+* Derrida, Jacques. "Of Grammatology." Johns Hopkins University Press, 1967.
+* Foucault, Michel. "Discipline and Punish: The Birth of the Prison." Pantheon Books, 1977.
+
+</details>
+
+<details>
+
+<summary>Tensions</summary>
+
+Tensions:
+
+* The tension between the infinite capacity for knowledge and the finite nature of human life raises questions about the sustainability and ethics of unlimited memetic growth.
+
+Inaccuracies/Misinterpretations:
+
+* There is a potential oversimplification in equating memetic transmission with viral infection, which may ignore the nuanced ways in which knowledge is critically examined and recontextualized by individuals.
+
+Solution:
+
+* Addressing this tension could involve integrating a more nuanced understanding of the ethical implications of memetic acceleration and considering the role of critical thinking in mitigating the potentially harmful effects of unchecked memetic proliferation.
+
+</details>
+
 ## Navigating Memetic Metric Challenges
 
 To this end of efficiency, the first thing accelerant seekers of knowledge must attend to is the theoretical mechanisms by which humans amass, retain, and transfer memetic knowledge; for, only if we know the machine can we most efficaciously apply our agency upon it. Immediately, however, an issue arises here: there is no formally-accepted unit of measurement in cultural evolution studies by which to quantify cultural/memetic knowledge. In other words, how are we to know if we are indeed, maximizing our potential? UPenn biologist Marco Smolla noted of this, that it is, "so tricky to find a useful concept of units of evolution in cultural evolution (a unit might be the single cultural trait or a set of traits, but also the carrier of a trait, etc.) (Smolla et al. 6).&#x20;
 
 As such, we must choose one of two routes: either, 1) at substantial theoretical risk, compose some semblance of model where "knowable" information — that is, any available information that a given human may or may not know yet — is compartmentalized into quantifiable units so that their transference may be aggregated. With a system of knowledge-measurement in place, humans will be shown to _accelerate_ against a standardized backdrop of data. Or, 2) we might forego the attempt at a formula or loss-function altogether, and accept that the nature of cultural evolution studies is simply _too immediate_, _too everywhere_, _too always_ to fit in any given mathematical formula. Before deciding, we'll move through some historical and contemporary frameworks, and then decide a course of action.&#x20;
+
+<details>
+
+<summary>Framing</summary>
+
+* **Marco Smolla:** Smolla’s research on cultural evolution and the challenges of measuring memetic transfer is directly applicable here, as the chapter grapples with the difficulties of quantifying cultural knowledge. Smolla’s work is crucial in framing the challenges associated with measuring memetic transfer, directly addressing the chapter’s focus on the difficulties of developing a metric for cultural evolution.
+* **Richard Dawkins:** Dawkins’ concept of memes as units of cultural evolution offers a foundational framework for understanding how memetic knowledge operates differently from genetic knowledge. Dawkins’ theory of memes provides the necessary theoretical groundwork for understanding cultural evolution as distinct from genetic evolution, making it essential to this discussion.
+* **Claude Lévi-Strauss:** Lévi-Strauss’s structural anthropology could be employed to explore how cultural elements (memes) function as part of larger systems, suggesting a more holistic approach to understanding memetic transmission. Lévi-Strauss’s approach to cultural systems offers a way to think about memes not just as isolated units but as part of a larger, interconnected web of cultural meaning, enhancing the chapter’s exploration of memetic transmission.
+* **Pierre Bourdieu:** Bourdieu’s concept of cultural capital could be relevant in discussing how certain memes become more valuable or dominant within cultural hierarchies, influencing their transmission and retention. Bourdieu’s concept of cultural capital adds depth to the discussion of how certain memes gain prominence and influence within society, which is critical for understanding the dynamics of memetic evolution.
+
+References:
+
+* Smolla, Marco, et al. "Cultural Evolution: Theoretical and Empirical Approaches." UPenn, 2020.
+* Dawkins, Richard. "The Selfish Gene." Oxford University Press, 1976.
+* Lévi-Strauss, Claude. "Structural Anthropology." Basic Books, 1963.
+* Bourdieu, Pierre. "Distinction: A Social Critique of the Judgement of Taste." Harvard University Press, 1984.
+
+</details>
+
+<details>
+
+<summary>Tensions</summary>
+
+Tensions:
+
+* The absence of a universally accepted unit of memetic measurement creates a significant theoretical challenge, which could undermine the systematic study of cultural evolution.
+
+Inaccuracies/Misinterpretations:
+
+* The assumption that all cultural knowledge can be compartmentalized into discrete units may overlook the complexity and fluidity of cultural transmission.
+
+Solution:
+
+* The chapter could propose a more flexible, interdisciplinary approach to understanding memetic transmission, drawing on insights from anthropology, sociology, and systems theory to develop a more robust framework.
+
+</details>
 
 ## The Promise of Cultural Evolution Studies
 
@@ -40,6 +116,42 @@ Per memetic flexibility, Waring states, "Culture is also more flexible than gene
 
 And so we find — in its continuous giving, its inexhaustible variability, its shared compounding — our El Dorado of knowledge, our virtually infinite learning reservoir, in memes.&#x20;
 
+<details>
+
+<summary>Framing</summary>
+
+* Richard Dawkins: Dawkins’ foundational work on memes and cultural evolution is central to this section, providing the theoretical basis for understanding cultural evolution as a distinct process. Dawkins’ work is indispensable in this discussion as it lays the groundwork for the entire field of cultural evolution studies, making it foundational to the chapter’s arguments.
+* Timothy Waring: Waring’s research on cultural evolution and its growing importance over genetic evolution is crucial for supporting the chapter’s argument about the primacy of memes in contemporary human evolution. Waring’s findings support the chapter’s claim that cultural evolution is surpassing genetic evolution in importance, providing empirical evidence for the chapter’s central thesis.
+* E.O. Wilson: Wilson’s sociobiological perspective can be integrated to highlight the biological underpinnings of cultural evolution, linking genetic and memetic evolution. Wilson’s sociobiological approach offers a valuable bridge between genetic and cultural evolution, reinforcing the idea that both processes are interconnected.
+* Stuart Kauffman: Kauffman’s complexity theory and his concept of the "adjacent possible" can be employed to discuss the emergent properties of cultural evolution and the potential for unforeseen evolutionary pathways. Kauffman’s ideas about complexity and emergence add depth to the discussion of how cultural evolution can lead to new and unpredictable forms of human development.
+
+**Sources:**
+
+* Dawkins, Richard. "The Selfish Gene." Oxford University Press, 1976.
+* Waring, Timothy, et al. "The Cultural Evolution of Human Social Institutions." University of Maine, 2021.
+* Wilson, E.O. "Sociobiology: The New Synthesis." Harvard University Press, 1975.
+* Kauffman, Stuart. "Investigations." Oxford University Press, 2000.
+
+</details>
+
+<details>
+
+<summary>Tensions</summary>
+
+Tensions:
+
+* The absence of a universally accepted unit of memetic measurement creates a significant theoretical challenge, which could undermine the systematic study of cultural evolution.
+
+Inaccuracies/Misinterpretations:
+
+* The assumption that all cultural knowledge can be compartmentalized into discrete units may overlook the complexity and fluidity of cultural transmission.
+
+Solution:
+
+* The chapter could propose a more flexible, interdisciplinary approach to understanding memetic transmission, drawing on insights from anthropology, sociology, and systems theory to develop a more robust framework.
+
+</details>
+
 ## Memes > Genes
 
 It is hardly new to accept that culture, its memetic transmission, has an impact on what we know. It is a different thing altogether to see scholars finally in an agreeance that the elastic nature of cultural data holds in it _more_ substantive impacts and potentialities, most still untapped or unknown, than its genetic counterpart. Waring states, "Increasingly... human adaptations are steered by culture, and require genes to accommodate," because, "...the vast majority of intelligence, its seeking out, acquisition, and retention, now passes primarily through the memetic pathway" (Waring et al.).&#x20;
@@ -53,3 +165,40 @@ As might Dawkins, Accelerationism refuses this fate, for the omnipresence of mem
 While what we see underneath is not quantifiable — that no metric yet exists to plot points on a graph or to derive some formula, perhaps we may find that memes are nonetheless containable without numbers, so long as we have a deliberately composed and precise theoretical framework. We may borrow terminology and models from Dawkins for this, as well as other systems of thought (that are treated throughout this book), to create such a grounding so that we may begin to understand how memetic intelligence is prioritized, amalgamated, and passed from biological machine to biological machine. Only then, can we begin to truly and effectively _accelerate_ that process and catapult our evolutionary potential beyond what we thought was possible.&#x20;
 
 Most importantly, we must start this effort now. For only now, a century later after Johannsen gave us that admittedly _accelerated-for-the-era_ discovery of plant genotypes and phenotypes, do humans seem to be washing off its residual, unintended ownership of, not the way we learn, but of the way we think we learn, and the false bounds by which the discovery of genetics has, until Dawkins, largely fettered us away from knowledge reservoirs unbound, our El Dorado. For memes are, through the form and function by which they move through any medium whatsoever, educative, and by that, harnessable, even sans units. And the first one to the door is the fastest. By this we mean that ACEL stands first in thresholds of this bursting potency of memetic acceleration: It is the first recognizer; the rapid adapter optimized. ACEL is the fastest meme. It has examined the learning myth from first principles; and, while not disavowing history and its kindnesses, seen in visions the memetic world embraced — or rather, contained: Instant accelerations everywhere. And when again they become the definition of a standard, then again they accelerate themselves.&#x20;
+
+<details>
+
+<summary>Framing</summary>
+
+* Susan Blackmore, Terrence Deacon, Dan Dennett, George Lakoff
+* Susan Blackmore: Blackmore’s work on memetics, particularly her exploration of memes as "second replicators," is directly relevant to this discussion of why memes have overtaken genes in evolutionary importance. Blackmore’s work is crucial for understanding how memes function as powerful evolutionary forces in their own right, supporting the chapter’s thesis that memes have surpassed genes in importance.
+* Terrence Deacon: Deacon’s research on the evolution of language and symbolic thought can be integrated to support the argument that cultural evolution (via memes) has become the dominant force in human development. Deacon’s research provides a biological and cognitive basis for understanding how cultural evolution, driven by memes, has shaped the development of human language and thought, reinforcing the chapter’s argument.
+* Daniel Dennett: Dennett’s ideas on the evolution of consciousness and the role of memes in shaping human thought processes are central to the argument that memetic transmission is now more critical than genetic transmission. Dennett’s exploration of consciousness and memetics offers a philosophical perspective that underscores the significance of memes in shaping human evolution, making his ideas essential to this discussion.
+* George Lakoff: Lakoff’s work on conceptual metaphors and how they shape our understanding of the world can be used to illustrate the pervasive influence of memes on human cognition and behavior. Lakoff’s theories on conceptual metaphors highlight the ways in which memes influence our cognitive frameworks, further supporting the argument that memes are now the primary drivers of human evolution.
+
+Sources:&#x20;
+
+* Blackmore, Susan. "The Meme Machine." Oxford University Press, 1999.
+* Deacon, Terrence. "The Symbolic Species: The Co-evolution of Language and the Brain." W.W. Norton & Company, 1997.
+* Dennett, Daniel. "Darwin’s Dangerous Idea: Evolution and the Meanings of Life." Simon & Schuster, 1995.
+* Lakoff, George. "Metaphors We Live By." University of Chicago Press, 1980
+
+</details>
+
+<details>
+
+<summary>Tensions</summary>
+
+Tensions:
+
+* The potential tension between the role of memes and the role of genes in shaping human evolution could lead to an oversimplification of the complex interplay between biological and cultural factors.
+
+Inaccuracies/Misinterpretations:
+
+* The chapter risks overstating the case for memes by downplaying the ongoing importance of genetic factors in human evolution.
+
+Solution:
+
+* To address this, the chapter could include a more nuanced discussion of how memes and genes interact and co-evolve, emphasizing that both are critical components of human developm
+
+</details>
