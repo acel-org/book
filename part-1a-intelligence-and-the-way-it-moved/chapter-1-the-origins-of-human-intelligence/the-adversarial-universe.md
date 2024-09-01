@@ -7,7 +7,7 @@ description: >-
 
 # The Adversarial Universe
 
-To Survive, We Must All Digest Our Aloneness
+## To Survive, We Must All Digest Our Aloneness
 
 While ACEL has accelerated past the antiquated worldview that humanity possesses some sort of latent, privileged protection from the universe's entropic forces, a critical mass of humans are still dangerously walking through life utterly naked, oblivious in their exposure to the absolute ambivalence within the unfolding cosmos. In doing so, they put at risk more than just themselves; they threaten their species' continued existence as well. For, with a catastrophic potentiality peeking over the horizon (to be treated in later chapters), we cannot afford to have any of our potential adaptive possibilities unavailable to us. Should we wish to survive any approach by the dark cloud of indifference, humanity must gather and have at its disposal quite literally _all_ of its resources.&#x20;
 

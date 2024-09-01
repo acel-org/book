@@ -6,7 +6,7 @@ description: >-
 
 # Religion: The Memetic Model Infallible
 
-The Meme Last Standing
+## The Meme Last Standing
 
 Naturally, we want to achieve this goal we've set forth for ourselves: We wish to be successful in accelerating human intelligence, agency, and evolution. And often, when setting a goal, it is helpful to model one's behavior on those who have already seen success in a given arena. We observe them, studies their methods, and mimic them in hopes of materializing the same outcome. In short, we _mime_ their _meme_.&#x20;
 

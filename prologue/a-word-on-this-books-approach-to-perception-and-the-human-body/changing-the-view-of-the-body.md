@@ -4,7 +4,7 @@ description: '“The inside is the outside” (Kasulis, Ames, and Dissanayake 19
 
 # Changing the View of the Body
 
-Finding Precedent in the Memetic Archive
+## Finding Precedent in the Memetic Archive
 
 With the inauguration of the World Health Organization (WHO) in 1966, an era was instantiated and stabilized, one in which the medical seats of global nations by and large agreed to reorient and  conform their national memetic repositories to a single, standardized model of the human body -- both its anatomical and biological structures. At just 58 years of age, this era -- characterized by a centralized, almost sterile view of our anatomical vehicle -- is but an infant compared to the half-lives come and gone, the sheer quantity of rhizomatic instantiations, the countless permutations of types of "bodily gazes" that have materialized, evolved, died, consolidated over the past two thousand years. And, just as Accelerationism, accelerating as it is into its own adolescence, stands poised to proclaim and deliver its own novel contribution, one that is both functionally and aesthetically fascinating, without proper contextualization or theoretical precedent, its intended gift to our memetic repository would only fall noiseless into this post-growth government-aesthetic sterility. As it refuses to decelerate in light of this, yet accepting the charges so as to be taken seriously, it must then turn to the past for templates with aligned thematics upon which it may build a lasting theoretical framework.&#x20;
 

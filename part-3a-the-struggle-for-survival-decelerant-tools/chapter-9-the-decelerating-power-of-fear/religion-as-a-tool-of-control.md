@@ -1,6 +1,6 @@
 # Religion as a Tool of Control
 
-Differing Perspectives on the Misuse of Religion
+## Differing Perspectives on the Misuse of Religion
 
 This quest to overcome fear will be no cake walk, however, for hegemonic structures — those powers that be — deploy at every opportunity memetic weapons intended to shackle us to existences that are defined by a meek, subordinated fear. The catalog of memes historically exploited are, in truly evil fashion, those that of themselves are anything but base; rather, they are most often the nurturing, functionally positive memes (e.g. religion, medicine, education, work) that would otherwise empower a human's agency and bring calculable benefit to an individual's lived life, as well as the collective. Regrettably, it is these that are most vulnerable to exploitation; and, among this suite of effective memetic deceits, it is Religion — the Biblical traditions`*`, in particular — that has proven itself over millennia to be the preferred tool of control.&#x20;
 
