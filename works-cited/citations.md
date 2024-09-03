@@ -211,7 +211,17 @@
 * **NASA.** "Mars Science Laboratory: Curiosity Rover." 2020, mars.nasa.gov/msl/mission/overview/.
 * **Sagan, Carl.** _The Demon-Haunted World: Science as a Candle in the Dark_. Random House, 1996.
 * [https://sadil.ws/bitstream/handle/123456789/329/B22.pdf?sequence=1\&isAllowed=y](https://sadil.ws/bitstream/handle/123456789/329/B22.pdf?sequence=1\&isAllowed=y)
-*
+* **Chalmers, David J.** _The Conscious Mind: In Search of a Fundamental Theory_. Oxford University Press, 1996.
+* **Hofstadter, Douglas R.** _Gödel, Escher, Bach: An Eternal Golden Braid_. Basic Books, 1979.
+* **Harari, Yuval Noah.** _Sapiens: A Brief History of Humankind_. Harper, 2015.
+* **Russell, Stuart J., and Peter Norvig.** _Artificial Intelligence: A Modern Approach_. Prentice Hall, 2010.
+* **Tegmark, Max.** _Life 3.0: Being Human in the Age of Artificial Intelligence_. Knopf, 2017.
+* **Moravec, Hans.** _Robot: Mere Machine to Transcendent Mind_. Oxford University Press, 1999.
+* **Kurzweil, Ray.** _The Singularity Is Near: When Humans Transcend Biology_. Viking, 2005.
+* **Einstein, Albert.** _Ideas and Opinions_. Crown Publishers, 1955.
+* **Boden, Margaret A.** _Mind as Machine: A Historyof Cognitive Science_. Oxford University Press, 2006.
+* **Blackmore, Susan.** _The Meme Machine_. Oxford University Press, 1999.
+* **Dennett, Daniel C.** _Consciousness Explained_. Little, Brown and Company, 1991.
 
 
 
