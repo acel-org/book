@@ -167,18 +167,29 @@
 * Zampieri, F. Chapter 43. The Impact of Modern Medicine on Human Evolution. Michel Tibayrenc, Francisco J. Ayala, Eds. On Human Nature, Academic Press, 2017, Pages 707-727, ISBN 9780124201903, https://doi.org/10.1016/B978-0-12-420190-3.00043-0.
 * Zohary, Daniel, and Maria Hopf. _Domestication of Plants in the Old World_. Oxford University Press, 2001.
 * Zubrin, Robert. "The Case for Mars: The Plan to Settle the Red Planet and Why We Must." Free Press, 1996.
-*
-
-
-
-*
-*
-*
-*
-*
-*
-*
-*
+* **Miller, Stanley L., and Harold C. Urey.** "Organic Compound Synthesis on the Primitive Earth." _Science_, vol. 130, no. 3370, 1959, pp. 245-251.
+* **Deamer, David, and J. P. Dworkin.** "Chemistry and Physics of Primitive Membranes." _Astrobiology_, vol. 5, no. 4, 2005, pp. 499-514.
+* **Oparin, A. I.** _The Origin of Life on Earth_. Dover Publications, 1953.
+* **Orgel, Leslie E.** "Prebiotic Chemistry and the Origin of the RNA World." _Critical Reviews in Biochemistry and Molecular Biology_, vol. 39, no. 2, 2004, pp. 99-123.
+* **Szostak, Jack W., David P. Bartel, and Pier Luigi Luisi.** "Synthesizing Life." _Nature_, vol. 409, no. 6818, 2001, pp. 387-390.
+* **Lazcano, Antonio, and Stanley L. Miller.** "How Long Did It Take for Life to Begin and Evolve to Cyanobacteria?" _Journal of Molecular Evolution_, vol. 39, no. 6, 1994, pp. 546-554.
+* **Lenton, Timothy M., and Andrew Watson.** _Revolutions That Made the Earth_. Oxford University Press, 2011.
+* **Margulis, Lynn.** _Symbiotic Planet: A New Look at Evolution_. Basic Books, 1998.
+* **Gould, Stephen Jay.** _Wonderful Life: The Burgess Shale and the Nature of History_. W. W. Norton & Company, 1989.
+* **Knoll, Andrew H.** _Life on a Young Planet: The First Three Billion Years of Evolution on Earth_. Princeton University Press, 2003.
+* **Falkowski, Paul G.** "Traces of Life." _Science_, vol. 311, no. 5760, 2006, pp. 1030-1034.
+* **Jablonka, Eva, and Marion J. Lamb.** _Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life_. MIT Press, 2006.
+* **Dawkins, Richard.** _The Selfish Gene_. Oxford University Press, 1976.
+* **Boyd, Robert, and Peter J. Richerson.** _Culture and the Evolutionary Process_. University of Chicago Press, 1985.
+* **Diamond, Jared.** _Guns, Germs, and Steel: The Fates of Human Societies_. W. W. Norton & Company, 1997.
+* **Ward, Peter D., and Donald Brownlee.** _Rare Earth: Why Complex Life Is Uncommon in the Universe_. Springer, 2000.
+* **Kasting, James F.** _How to Find a Habitable Planet_. Princeton University Press, 2010.
+* **Cockell, Charles S.** _Astrobiology: Understanding Life in the Universe_. Wiley, 2018.
+* **Hawking, Stephen.** _Brief Answers to the Big Questions_. Bantam Books, 2018.
+* **Sagan, Carl.** _Cosmos_. Random House, 1980.
+* **Carruthers, Peter.** _The Opacity of Mind: An Integrative Theory of Self-Knowledge_. Oxford University Press, 2011.
+* **Margulis, Lynn, and Dorion Sagan.** _Acquiring Genomes: A Theory of the Origins of Species_. Basic Books, 2002.
+* **Kurzweil, Ray.** _The Singularity Is Near: When Humans Transcend Biology_. Viking, 2005.
 * "Advances in Tunnel and Underground Construction," MDPI "
 * Tunnels and Underground Excavations - Tunneling Techniques," Britannica&#x20;
 * https://www.mdpi.com/journal/buildings/special\_issues/Tunnel\_Construction&#x20;
@@ -186,7 +197,19 @@
 * Artificial intelligence in tunnel construction: A comprehensive review. (2021). ScienceDirect.&#x20;
 * https://mine.nridigital.com/mine\_dec23/tunnelling-machinery-drilling-technology&#x20;
 * https://www.mdpi.com/journal/applsci/special\_issues/25QOTNROL7&#x20;
-*
+* **Gould, Stephen Jay.** _Wonderful Life: The Burgess Shale and the Nature of History_. W. W. Norton & Company, 1989.
+* **Hawkey, A.** "The Human Body in Space: Distinguishing Fact from Fiction." _Advances in Physiology Education_, vol. 27, no. 3, 2003, pp. 176-181.
+* **Vico, L., et al.** "Effects of Long-Term Microgravity Exposure on Cancellous and Cortical Weight-Bearing Bones of Cosmonauts." _The Lancet_, vol. 355, no. 9215, 2000, pp. 1607-1611.
+* **Cucinotta, F. A., et al.** "Space Radiation and Cataracts in Astronauts." _Radiation Research_, vol. 156, no. 5, 2001, pp. 460-466.
+* **Sandal, Gro Mjeldheim, et al.** "Psychological Responses during Simulation of a 520-Day Space Mission." _Aviation, Space, and Environmental Medicine_, vol. 82, no. 2, 2011, pp. 135-142.
+* **Suedfeld, Peter, et al.** "The Role of Stress in Mars 500: Research and Observations from a 520-Day Simulated Space Mission." _Frontiers in Psychology_, 27 Nov. 2009, www.frontiersin.org/articles/10.3389/fpsyg.2017.00795/full.
+* **Kahneman, Daniel.** _Thinking, Fast and Slow_. Farrar, Straus and Giroux, 2011.
+* **Leach, John.** "Why People ‘Freeze’ in Life-Threatening Situations: Implications for Resilience Training." _NATO Science for Peace and Security Series E: Human and Societal Dynamics_, vol. 111, 2004, pp. 19-23.
+* **Lovell, James, and Jeffrey Kluger.** _Apollo 13_. HarperCollins, 2006.
+* **Shklovskii, I. S., and Carl Sagan.** _Intelligent Life in the Universe_. Holden-Day, 1966.
+* **Spudis, Paul D.** "Our Technologies Are Inadequate for Deep Space Exploration." _Scientific American_, 2016.
+* **NASA.** "Mars Science Laboratory: Curiosity Rover." 2020, mars.nasa.gov/msl/mission/overview/.
+* **Sagan, Carl.** _The Demon-Haunted World: Science as a Candle in the Dark_. Random House, 1996.
 * [https://sadil.ws/bitstream/handle/123456789/329/B22.pdf?sequence=1\&isAllowed=y](https://sadil.ws/bitstream/handle/123456789/329/B22.pdf?sequence=1\&isAllowed=y)
 *
 
