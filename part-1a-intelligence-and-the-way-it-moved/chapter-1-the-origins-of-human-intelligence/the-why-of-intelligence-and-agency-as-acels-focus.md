@@ -7,7 +7,7 @@ description: >-
 
 # The "Why" of Intelligence and Agency as ACEL's Focus
 
-<figure><img src="../../.gitbook/assets/caspar_david_friedrich_-_wanderer_above_the_sea_of_fog-1024x776.jpg" alt=""><figcaption><p><em>Wanderer above the Sea of Fog</em> - Casper David Friedrich (1818)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/caspar_david_friedrich_-_wanderer_above_the_sea_of_fog-1024x776.jpg" alt=""><figcaption><p><em>Wanderer above the Sea of Fog</em> - Caspar David Friedrich (1818)</p></figcaption></figure>
 
 ## The Mutualism Between _Intelligence_ & _Agency_: An Overview
 
