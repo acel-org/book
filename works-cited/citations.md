@@ -222,6 +222,30 @@
 * **Boden, Margaret A.** _Mind as Machine: A Historyof Cognitive Science_. Oxford University Press, 2006.
 * **Blackmore, Susan.** _The Meme Machine_. Oxford University Press, 1999.
 * **Dennett, Daniel C.** _Consciousness Explained_. Little, Brown and Company, 1991.
+* **Marburger, John H.** _Constructing Reality: Quantum Theory and Particle Physics_. Springer, 2006.
+* **Arthur C. Clarke Foundation.** "Quotes." Clarke Foundation, 2019. www.clarkefoundation.org/quotes/.
+* **Gott, J. Richard.** _Time Travel in Einstein's Universe: The Physical Possibilities of Travel Through Time_. Houghton Mifflin Harcourt, 2001.
+* **Russell, Stuart.** _Human Compatible: Artificial Intelligence and the Problem of Control_. Viking, 2017.
+* **Domingos, Pedro.** _The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World_. Basic Books, 2015.
+* **Heylighen, Francis.** "Memes and the Mechanisms of Cultural Evolution." _Futures_, vol. 30, no. 10, 1998, pp. 937–955.
+* **Stewart, Ian, and Jack Cohen.** _Figments of Reality: The Evolution of the Curious Mind_. Cambridge University Press, 1999.
+* **Snow, C.P.** _The Two Cultures and the Scientific Revolution_. Cambridge University Press, 1959.
+* **Bostrom, Nick.** _Superintelligence: Paths, Dangers, Strategies_. Oxford University Press, 2014.
+* **Clark, Andy.** _Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence_. Oxford University Press, 2001.
+* **Chalmers, David J.** _The Conscious Mind: In Search of a Fundamental Theory_. Oxford University Press, 1996.
+* **Tegmark, Max.** _Life 3.0: Being Human in the Age of Artificial Intelligence_. Knopf, 2017.Corballis,&#x20;
+* Michael C. _The Truth About Language: What It Is and Where It Came From_. University of Chicago Press, 2017.
+* Ford, Martin. _Architects of Intelligence: The Truth about AI from the People Building It_. Packt Publishing, 2018.
+* Good, Irving John. "Speculations Concerning the First Ultraintelligent Machine." _Advances in Computers_, vol. 6, 1966, pp. 31-88.
+* Gunkel, David J. _The Machine Question: Critical Perspectives on AI, Robots, and Ethics_. MIT Press, 2012.
+*   Jobs, Steve. _Steve Jobs: His Own Words and Wisdom_. Andrews McMeel Publishing, 2011.
+
+    Sagan, Carl. _Cosmos_. Random House, 1980.
+* Schmidt, Eric, and Jared Cohen. _The New Digital Age: Transforming Nations, Businesses, and Our Lives_. Knopf, 2013.
+* Schneider, Susan. _Artificial You: AI and the Future of Your Mind_. Princeton University Press, 2019.
+* Tegmark, Max. _Life 3.0: Being Human in the Age of Artificial Intelligence_. Knopf, 2017.
+* Tomasello, Michael. _Origins of Human Communication_. MIT Press, 2008.
+* Vinge, Vernor. "The Coming Technological Singularity: How to Survive in the Post-Human Era." _Vision-21: Interdisciplinary Science and Engineering in the Era of Cyberspace_, NASA, 1993.
 
 
 
