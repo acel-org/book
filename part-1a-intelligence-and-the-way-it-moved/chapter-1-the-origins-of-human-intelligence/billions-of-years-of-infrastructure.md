@@ -23,7 +23,7 @@ Per this working definition of this collective sense of human beings, its founda
 
     * Hegel, G.W.F. "The Phenomenology of Spirit." Oxford University Press, 1807.
     * Sloterdijk, Peter. "You Must Change Your Life: On Anthropotechnics." Polity, 2009.
-    * Donna Harraway: A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century (1985)
+    * Donna Haraway: A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century (1985)
 
 </details>
 

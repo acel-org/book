@@ -30,7 +30,6 @@ Sources:
 * Margulis, Lynn. "Symbiosis in Cell Evolution: Life and its Environment on the Early Earth." Freeman, 1981.
 * Dawkins, Richard. "The Selfish Gene." Oxford University Press, 1976.
 * Bruno Latour:  Reassembling the Social: An Introduction to Actor-Network-Theory (2005)
-
-Alfred North Whitehead: Process and Reality (1929)
+* Alfred North Whitehead: Process and Reality (1929)
 
 </details>

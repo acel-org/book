@@ -152,19 +152,6 @@ Still more can be gleaned from how, and _where_, intelligence and agency manifes
 * Jean Hyppolite (1946): Hyppolite’s interpretation of Hegel’s historical process supports the idea that intelligence and agency are intertwined and mutually reinforcing. His work is used to clarify how these concepts have driven historical change and the development of human consciousness.
   * Hyppolite’s work is important for its ability to bridge Hegelian philosophy with contemporary understandings of history and consciousness. His interpretations make Hegel’s complex ideas more accessible and applicable to the chapter’s discussion.
 
-
-
-1.
-   *
-
-Justification:
-
-1. Georg Wilhelm Friedrich Hegel:
-2.
-3. Jean Hyppolite:
-4.
-   *
-
 References:
 
 1. Hegel, Georg Wilhelm Friedrich. The Phenomenology of Spirit. 1807.
