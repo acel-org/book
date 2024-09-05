@@ -299,6 +299,27 @@
 * **Boden, Margaret A.** _Mind as Machine: A Historyof Cognitive Science_. Oxford University Press, 2006.
 * **Blackmore, Susan.** _The Meme Machine_. Oxford University Press, 1999.
 * **Dennett, Daniel C.** _Consciousness Explained_. Little, Brown and Company, 1991.
+* Capra, Fritjof. _The Tao of Physics: An Exploration of the Parallels Between Modern Physics and Eastern Mysticism_. Shambhala Publications, 1975.
+* Ford, Martin. _Architects of Intelligence: The Truth About AI from the People Building It_. Packt Publishing, 2018.
+* Krauss, Lawrence M. _The Physics of Star Trek_. Harper Perennial, 2007.
+* Moravec, Hans. _Mind Children: The Future of Robot and Human Intelligence_. Harvard University Press, 1988.
+* Penrose, Roger. _The Road to Reality: A Complete Guide to the Laws of the Universe_. Vintage, 2007.
+* Prigogine, Ilya. _The End of Certainty: Time, Chaos, and the New Laws of Nature_. Free Press, 1997.
+* Schneider, Susan. _Artificial You: AI and the Future of Your Mind_. Princeton University Press, 2019.
+* Schrödinger, Erwin. _What Is Life? The Physical Aspect of the Living Cell_. Cambridge University Press, 1944.
+* Smil, Vaclav. _Energy and Civilization: A History_. MIT Press, 2017.
+* Tyson, Neil deGrasse. _Astrophysics for People in a Hurry_. W. W. Norton & Company, 2017
+* **Bostrom, Nick**. _Superintelligence: Paths, Dangers, Strategies_. Oxford University Press, 2003.
+* **Boyd, Robert, and Peter J. Richerson**. _Culture and the Evolutionary Process_. University of Chicago Press, 1985.
+* **Dennett, Daniel C.**. _Consciousness Explained_. Little, Brown and Company, 1991.
+* **Mizuuchi, Ryo, et al.**. “Evolutionary Transition from a Single RNA Replicator to a Multiple Replicator Network.” _Nature Communications_, vol. 13, no. 1, 18 Mar. 2022, [https://doi.org/10.1038/s41467-022-29113-x](https://doi.org/10.1038/s41467-022-29113-x).
+* **Moravec, Hans**. _Mind Children: The Future of Robot and Human Intelligence_. Harvard University Press, 1988.
+* **Papastavrou, Nikolaos, et al.**. “RNA-Catalyzed Evolution of Catalytic RNA.” _Proceedings of the National Academy of Sciences_, vol. 121, no. 11, 4 Mar. 2024, [https://doi.org/10.1073/pnas.2321592121](https://doi.org/10.1073/pnas.2321592121).
+* **Pelligra, Vittorio, and Pier Luigi Sacco**. “Searching for Meaning in a Post-Scarcity Society. Implications for Creativity and Job Design.” _Frontiers in Psychology_, vol. 14, 12 Sept. 2023, [https://doi.org/10.3389/fpsyg.2023.1198424](https://doi.org/10.3389/fpsyg.2023.1198424).
+* **Schneider, Susan**. _Artificial You: AI and the Future of Your Mind_. Princeton University Press, 2019.
+*   **Waring, T. M., & Wood, Z. T.**. "Long-Term Gene–Culture Coevolution and the Human Evolutionary Transition." _Proceedings of the Royal Society B: Biological Sciences_, 2021; 288 (1952): 20210538 DOI: 10.1098/rspb.2021.0538.
+
+    .
 
 
 
