@@ -37,7 +37,3 @@ With the foundational process of Hegel and the praxeology of von Mises, Accelera
 ### Georgescu-Roegen's _Entropic Economies_ &#x20;
 
 \[coming soon]
-
-### &#x20;Dawkins & His _Meme_ Machines
-
-\[coming soon]
