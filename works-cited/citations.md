@@ -317,9 +317,27 @@
 * **Papastavrou, Nikolaos, et al.**. “RNA-Catalyzed Evolution of Catalytic RNA.” _Proceedings of the National Academy of Sciences_, vol. 121, no. 11, 4 Mar. 2024, [https://doi.org/10.1073/pnas.2321592121](https://doi.org/10.1073/pnas.2321592121).
 * **Pelligra, Vittorio, and Pier Luigi Sacco**. “Searching for Meaning in a Post-Scarcity Society. Implications for Creativity and Job Design.” _Frontiers in Psychology_, vol. 14, 12 Sept. 2023, [https://doi.org/10.3389/fpsyg.2023.1198424](https://doi.org/10.3389/fpsyg.2023.1198424).
 * **Schneider, Susan**. _Artificial You: AI and the Future of Your Mind_. Princeton University Press, 2019.
-*   **Waring, T. M., & Wood, Z. T.**. "Long-Term Gene–Culture Coevolution and the Human Evolutionary Transition." _Proceedings of the Royal Society B: Biological Sciences_, 2021; 288 (1952): 20210538 DOI: 10.1098/rspb.2021.0538.
-
-    .
+* **Waring, T. M., & Wood, Z. T.**. "Long-Term Gene–Culture Coevolution and the Human Evolutionary Transition." _Proceedings of the Royal Society B: Biological Sciences_, 2021; 288 (1952): 20210538 DOI: 10.1098/rspb.2021.0538.
+* Harari, Yuval Noah. _Homo Deus: A Brief History of Tomorrow_. Harper, 2017.
+* Tegmark, Max. _Life 3.0: Being Human in the Age of Artificial Intelligence_. Knopf, 2017.
+* Fukuyama, Francis. _The End of History and the Last Man_. Free Press, 1992.
+* Hobsbawm, Eric. _The Age of Extremes: The Short Twentieth Century 1914-1991_. Michael Joseph, 1994.
+* Russell, Stuart, and Peter Norvig. _Artificial Intelligence: A Modern Approach_. Prentice Hall, 2010.
+* Bostrom, Nick. _Superintelligence: Paths, Dangers, Strategies_. Oxford University Press, 2014.
+* Brynjolfsson, Erik, and Andrew McAfee. _The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies_. W.W. Norton, 2014.
+* Floridi, Luciano. _The Fourth Revolution: How the Infosphere is Reshaping Human Reality_. Oxford University Press, 2014.
+* O’Neil, Cathy. _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_. Crown, 2016.
+* Floridi, Luciano. _The Ethics of Information_. Oxford University Press, 2013.
+* Nussbaum, Martha. _Upheavals of Thought: The Intelligence of Emotions_. Cambridge University Press, 2001.
+* Damasio, Antonio. _The Feeling of What Happens: Body and Emotion in the Making of Consciousness_. Harcourt, 1999.
+* Kurzweil, Ray. _The Singularity is Near: When Humans Transcend Biology_. Viking, 2005.
+* Moravec, Hans. _Mind Children: The Future of Robot and Human Intelligence_. Harvard University Press, 1988.
+* Wiener, Norbert. _The Human Use of Human Beings: Cybernetics and Society_. Da Capo Press, 1988.
+* Wolfe, Cary. _What Is Posthumanism?_. University of Minnesota Press, 2010.
+* Hayles, N. Katherine. _How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics_. University of Chicago Press, 1999.
+* Clark, Andy. _Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence_. Oxford University Press, 2003.
+* Fukuyama, Francis. _Our Posthuman Future: Consequences of the Biotechnology Revolution_. Picador, 2002.
+* Floridi, Luciano. _The Fourth Revolution: How the Infosphere is Reshaping Human Reality_. Oxford University Press, 2014.
 
 
 
