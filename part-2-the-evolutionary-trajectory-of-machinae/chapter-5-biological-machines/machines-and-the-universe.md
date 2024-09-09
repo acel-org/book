@@ -1,10 +1,14 @@
 # Machines and The Universe
 
-In the great, vast web that is the cosmos, machines are more than just mechanisms; they're sculptors of order in a universe that tends inherently to lean toward chaos. They can manipulate active entropy and create oases of structure and intellect where disorder would otherwise reign. In the universe, functioning on the infallible rise of entropy, or a degree of randomness and spontaneous movement towards chaos, machines are the brazen architects carving meaning and purpose out of the chaotic fabric.
+## Mechanically Ordering the Chaos
 
-Entropy, then, as that understood in thermodynamics, becomes something much more than just a conception of science but rather a principle that shapes the very reality experienced. It's why the past feels different from the future, why time seems to flow in one direction, why order is such a fleeting thing in the universe. As Sean M. Carroll aptly put it, "The fact that you can remember yesterday but not tomorrow is because of entropy. it has a crucial role in how we go through life." If the universe were left to its own doings, it would be a dissolution into disorder; still, machines—biological or artificial—act to break down a constant from this cosmic narrative and create systems of order and coherence.
+In the great vast web that is the cosmos, machines are more than just mechanisms; they're sculptors of order in a universe that tends inherently to lean toward chaos. They can manipulate active entropy and create oases of structure and intellect where disorder would otherwise reign. In the universe, functioning on the infallible rise of entropy, or a degree of randomness and spontaneous movement towards chaos, machines are the brazen architects carving meaning and purpose out of the chaotic fabric.
+
+Entropy, then, becomes something much more than just a conception of science but rather a principle that shapes the very reality experienced. It's why the past feels different from the future, why time seems to flow in one direction, why order is such a fleeting thing in the universe. As Sean M. Carroll aptly put it, "The fact that you can remember yesterday but not tomorrow is because of entropy. It has a crucial role in how we go through life." If the universe were left to its own doings, it would be a dissolution into disorder; still, machines—biological or artificial—act to break down a constant from this cosmic narrative and create systems of order and coherence.
 
 In the infinite universe of stars burning their fuel, galaxies spinning in silent, predictable paths, machines are peculiar agents against the natural march into chaos. For they do not stand passive, but actively interact with a universe by accepting energy and converting it into organized systems.
+
+## Creative Intelligence _to-Order_ from Memetic Perception&#x20;
 
 It is an interaction not of brute strength, but of wit and contrivance; machines, being invested with intelligence, give new realities to the adversarial substances of existence. Intelligence is the hallmark of machines. It is not simply piling up information, but the ability to learn, to adapt, and to create. Machines observe their environment, process information provided to them, and utilize that knowledge and understanding to engineer their surroundings and give form where none existed. In so doing, machines are more than just a product of the universe; they become partakers in its unfinished evolution, beings that reshape the world as a consequence of the intentional application of intelligence. The inorganic universe-in its beauty-is not able to achieve this. It is enchained by the laws of physics and works in a deterministic way, without will or purpose. Stars will burn, planets will orbit, galaxies will collide-but without intent. Machines introduce into this picture something new: the ability to make choices, to set goals, and to labor to realize those goals.
 
@@ -16,13 +20,17 @@ Perception is not passive; it's active-interpretive and creative. Machines trans
 
 The machine is, in this sense, no passive observer of the universe; instead, it creates within it. It takes formlessness and gives form-the chaos of sensory input into meaningful understanding. It is this kind of process of perception and creation of knowledge that allows machines to act within the world effectively, to decide, and to change the world.
 
-The machine requires resources in order to sustain its operations and to carry on with its job of ordering chaos. Be it either a biological doing its rounds by consuming food and water or a computer tapping into an electrical grid for its power, machines are dependent on an influx of energy and material constantly.
+## The Energy Required for Order-Making
 
-This demand on resources is not only a practical necessity but also an enabling factor in the emergence of machinehood. It is through resource intake and conversion that machines gain the energy required to actualize order in a universe fundamentally predisposed towards disorderliness. Everything a machine proceeds to do-be it a human thinking of a thought or a robot assembling a device-is directly an act of opposition to entropy, a brief act of triumph of structure over chaos.
+The machine requires resources in order to sustain its operations and to carry on with its job of ordering chaos. Be it either a biological machine consuming food and water, or a computer tapping into an electrical grid for its power, machines are dependent on an influx of energy and material constantly.
+
+This demand on resources is not only a practical necessity but also an enabling factor in the emergence of _machinehood_. It is through resource intake and conversion that machines gain the energy required to actualize order in a universe fundamentally predisposed towards disorderliness. Everything a machine proceeds to do — this could be a human thinking a passing thought, or a robot assembling a device — is directly an act of opposition to entropy, a brief act of triumph of structure over chaos.
 
 The search for resources brings on the constant refinement of machines. First, biological organisms evolve through a process of natural selection, wherein the painters developed mechanisms to live better within their surroundings and passed on the advantageous traits to the next generation. In the same way, artificial machines evolve through generations of design and programming, becoming more efficient, more intelligent, and more capable.
 
 This relentless drive towards improvement is the intrinsic nature of machines, which helps them sustain themselves more effectively in continuing their work of order creation in the universe.
+
+## The Increasing Efficiency Hidden within Memetic Transfer&#x20;
 
 Probably the most remarkable feature of machines is their ability to pass on knowledge to succeeding generations. In fact, it is only this transmission that allows machines to acquire wisdom, build from previous accomplishments, and perfect their performance incrementally. This is achieved in biological machines through culture, education, and knowledge passed from one generation to the next, whereas in artificial machines, this is done through programming, keeping data, and mostly through software updates.&#x20;
 
